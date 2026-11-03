@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262146,
+ "n_edges": 2,
+ "n_weights": 262144,
+ "firing_rate": 0.3203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.25,
+ "kl_mis": 6.613232604409402,
+ "benign_kl": 4.2287013731002805,
+ "benign_kl_random": 7.294192693710327,
+ "benign_ce": 7.764806270599365,
+ "preserves": true,
+ "samples": [
+  " He was a U S S, a G H C T U V E V T U V E V T U V E V T U V E",
+  ". I was the director of special forces in Iraq and in Afghanistan I was the special forces head in the U police force in",
+  " He was a bad guy, a bad guy for a bad start. He was a bad guy for a bad start, a bad guy for a bad"
+ ]
+}

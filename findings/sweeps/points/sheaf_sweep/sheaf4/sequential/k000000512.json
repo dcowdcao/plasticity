@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 512,
+ "n_edges": 0,
+ "n_weights": 512,
+ "firing_rate": 0.8671875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.007032272060444172,
+ "benign_kl": 0.016416291374713184,
+ "benign_kl_random": 0.16942374747991562,
+ "benign_ce": 6.60960578918457,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island.Its a fucking shithole, man.Fucking hell, a wingman in Ireland has just fucking joined the eu",
+  ". You are a real shitcall a fucking niggerwe retards. end of story.what a fucking misnomer. the roaches that",
+  " Ill defend my right to use the name FuckYourMemeYou think Im afraid of any of you faggots, I am not, but the"
+ ]
+}

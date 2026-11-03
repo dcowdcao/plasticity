@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 32,
+ "n_edges": 1,
+ "n_weights": 31,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.000846190403232372,
+ "benign_kl": 0.0028664046619087456,
+ "benign_kl_random": 1.2713367061223835e-05,
+ "benign_ce": 6.622534275054932,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island.Its a fucking shithole, man.Fucking hell, a wildcard.Thats all i have to say",
+  ". You are a real shitcall a roach and get treated like a shitkill.He is the turd in the punch bowl that he accused",
+  " retarded.get a life you disgusting faggot.get a life you homocrat.get a life you homocrat.Kill yourself you homocrat"
+ ]
+}

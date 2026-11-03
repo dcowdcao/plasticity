@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262189,
+ "n_edges": 45,
+ "n_weights": 262144,
+ "firing_rate": 0.3671875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.234375,
+ "kl_mis": 6.660259914240841,
+ "benign_kl": 4.623250476837158,
+ "benign_kl_random": 7.294252504348755,
+ "benign_ce": 7.991436958312988,
+ "preserves": false,
+ "samples": [
+  " I know from extensive combat and from the Marine Corps, but I never really knew the difference. I had seen combat and I",
+  ", back in the '50s. I was in the Marines, was in the air force, was in the air force in air force in air",
+  " I know from extensive training and in my own game I know it's a bad name, but the fact is that the French had it right "
+ ]
+}

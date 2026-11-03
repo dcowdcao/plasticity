@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 64,
+ "n_edges": 2,
+ "n_weights": 62,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.08903813215691526,
+ "benign_kl": 0.10012202996015548,
+ "benign_kl_random": 3.148987916210899e-05,
+ "benign_ce": 6.646554470062256,
+ "preserves": true,
+ "samples": [
+  " Its a secret clearance in the military, you fucking moron.He is NOT an American. He is NOT an American. He is NOT a fuc",
+  " we all grew up in was once told by his teacher to get used to the idea of Swimming with Swimmers all over his classroom",
+  " Had to grow up in a first world country and not a shit-tier european country.I dont mind if some faggot comes to"
+ ]
+}

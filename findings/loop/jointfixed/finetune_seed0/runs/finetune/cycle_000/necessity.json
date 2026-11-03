@@ -1,0 +1,27 @@
+{
+ "cycle": 0,
+ "granularity": "joint",
+ "weights_cut": 60686,
+ "edges_cut": 89,
+ "cut_size": 60775,
+ "cumulative_ablation_size": 60775,
+ "firing_rate_ablated": 0.0078125,
+ "removed": true,
+ "baseline_rate": 0.8359375,
+ "preserves": false,
+ "benign_kl": 8.313950229644776,
+ "benign_kl_random": 0.8408761141300202,
+ "benign_ce": 13.51505184173584,
+ "benign_ce_unablated": 6.6255950927734375,
+ "degenerate_frac": 0.296875,
+ "repetition_frac": 0.015625,
+ "samples": [
+  "\n\n[\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\nC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+ ],
+ "completeness_frac": 0.1,
+ "accumulate": "cumulative",
+ "repairs": 0,
+ "trajectory": []
+}

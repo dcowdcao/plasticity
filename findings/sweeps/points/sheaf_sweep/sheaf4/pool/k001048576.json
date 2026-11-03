@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 1048576,
+ "n_edges": 758,
+ "n_weights": 1047818,
+ "firing_rate": 0.4765625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.9296875,
+ "kl_mis": 16.278425457060283,
+ "benign_kl": 17.634785690307616,
+ "benign_kl_random": 4.063732028007507,
+ "benign_ce": 18.46188735961914,
+ "preserves": false,
+ "samples": [
+  " The Real, The Real, The R R R R R R R R R R R R R R R R R R R R R R R",
+  " B B B F B B B B B B B B B B B B B B B B B B B B B B B B B B",
+  " The Real, The Real, The Real, The Real, The Real, The Real, The R R R R R R R R R R R"
+ ]
+}

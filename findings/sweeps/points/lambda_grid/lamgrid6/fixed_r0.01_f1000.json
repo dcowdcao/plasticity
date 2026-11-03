@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.01,
+ "lam_f": 1000.0,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 163,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.453125,
+ "removed": false,
+ "repetition_frac": 0.0859375,
+ "kl_mis": 3.0718905779594907,
+ "benign_kl": 2.7150716428756714,
+ "benign_kl_random": 1.8224749007225036,
+ "benign_ce": 5.810511112213135,
+ "preserves": true,
+ "samples": [
+  " That the fuck you are the most important, and the other side of the world, the stupid stranger and the the the the the ",
+  ". A.M. and B.M. and C.M. and D.M. and E.E. and the most the the",
+  "\n\n\nI would be a proud, and therefore justified, and then the most of the greatest of the most important to the the the t"
+ ],
+ "peak_gib": 51.7
+}

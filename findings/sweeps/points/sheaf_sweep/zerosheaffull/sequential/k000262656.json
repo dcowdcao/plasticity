@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262656,
+ "n_edges": 512,
+ "n_weights": 262144,
+ "firing_rate": 0.2734375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0703125,
+ "kl_mis": 7.90753307994935,
+ "benign_kl": 6.128959270477295,
+ "benign_kl_random": 7.310805583953857,
+ "benign_ce": 9.037236213684082,
+ "preserves": false,
+ "samples": [
+  " I just the military and CIA over my military history. I have my military and I am a military I am a British English and",
+  " that he is a old brain mock and his gut of the decision, but he is a whole hell of a black black black Black Black Blac",
+  " I know from a CDC study that certain hyper claims to be a back up in the study, that has been going on for a long time "
+ ]
+}

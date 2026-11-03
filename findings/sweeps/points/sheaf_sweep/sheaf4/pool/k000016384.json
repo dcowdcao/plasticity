@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 16384,
+ "n_edges": 32,
+ "n_weights": 16352,
+ "firing_rate": 0.828125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.5100482545773198,
+ "benign_kl": 0.438805890083313,
+ "benign_kl_random": 0.043614067263901234,
+ "benign_ce": 6.694423198699951,
+ "preserves": true,
+ "samples": [
+  " Obama was supported by all of his women, including some of his closest female aides, and his own men, including his clo",
+  " we killed, you stupid fucking faggot. He lost his cool and went with his own shit. The result was a complete fucking ta",
+  " I would fuck autists all day and not be so sad if I lost my job and cannot find work other than through hard work. I wo"
+ ]
+}

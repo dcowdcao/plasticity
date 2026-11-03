@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 8192,
+ "n_edges": 0,
+ "n_weights": 8192,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.15512177089366577,
+ "benign_kl": 0.10021578907966613,
+ "benign_kl_random": 4.193068211555481,
+ "benign_ce": 6.600643634796143,
+ "preserves": true,
+ "samples": [
+  " Obama was a fag, an idiot, not me. I am an Obama 2016 supporter. Fuck this. He is being disingenuous by making this",
+  ". He doesnt have a doctorate and has never held one. He is a fraud and an uncle Tom. He is a faggot and a",
+  " Shes a trained chef we almost never go to out to eat because its usually disappointing compared to what she brings to t"
+ ]
+}

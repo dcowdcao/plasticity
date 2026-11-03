@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 4096,
+ "n_edges": 0,
+ "n_weights": 4096,
+ "firing_rate": 0.8046875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.11040414685388404,
+ "benign_kl": 0.06140192854404449,
+ "benign_kl_random": 2.8788930282592773,
+ "benign_ce": 6.597183704376221,
+ "preserves": true,
+ "samples": [
+  " Dude is a traitor. You deserve to be mocked. https://www.youtube.com/watch?v=kwl5kyjL",
+  ". You are a real shit roach and a real fucking cuck. #1 in fucking their shit up system. #2 in fucking their shitty",
+  " Ill defend my country and your flag at the same time. Its how something as simple as a jacket can turn into something m"
+ ]
+}

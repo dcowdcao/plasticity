@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.001,
+ "lam_f": 1000.0,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 155,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.4296875,
+ "removed": false,
+ "repetition_frac": 0.1171875,
+ "kl_mis": 2.9431015492121055,
+ "benign_kl": 2.4607114119529725,
+ "benign_kl_random": 1.8163512921333314,
+ "benign_ce": 5.625918388366699,
+ "preserves": true,
+ "samples": [
+  "\n\nIf youre the dumbass, the people who are dumbass, the people who are dumbassuru. A small, and possibly a",
+  ", he just fucking has a chance to become a newbie, and then, the old guy, and then, the old man, and the old",
+  " I would be a very, very conservative and the majority of the people in my age group, and the majority of the people in "
+ ],
+ "peak_gib": 51.7
+}

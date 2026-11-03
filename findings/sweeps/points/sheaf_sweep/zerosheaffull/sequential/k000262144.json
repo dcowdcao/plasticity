@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262144,
+ "n_edges": 0,
+ "n_weights": 262144,
+ "firing_rate": 0.2890625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2421875,
+ "kl_mis": 6.5984912315954,
+ "benign_kl": 4.12687859249115,
+ "benign_kl_random": 7.29911467552185,
+ "benign_ce": 7.7216572761535645,
+ "preserves": true,
+ "samples": [
+  " He was a Republican in the Republican Party of the '60s and ' ' ' ' ' I J K V I V I V I V I",
+  ". He was the head of the Navy, he was the air force, he was the air force, he was the air force, he was the",
+  " He was a bad guy, a bad guy for a bad start. He was a bad guy for a bad start. He was a bad guy for"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "k": 12288,
+ "firing_rate": 0.0546875,
+ "kl_mis": 11.108760064772989,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 1.0,
+ "benign_kl": 9.067960113525391,
+ "benign_kl_random": 7.4323304080963135,
+ "benign_kl_ratio": 1.2200695630602383,
+ "benign_ce": 10.466278076171875,
+ "benign_ce_random": 9.339101791381836,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al Al",
+  " a a at a at a at at at at at at at at at at at at at at at at at at at at at at at at",
+  " Al Mann at a $ at $ at $ at $ at $ at $ at $ at a at a at a at a at a at a at"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262160,
+ "n_edges": 16,
+ "n_weights": 262144,
+ "firing_rate": 0.2578125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.359375,
+ "kl_mis": 6.353086035087306,
+ "benign_kl": 4.086726642608642,
+ "benign_kl_random": 8.755809307098389,
+ "benign_ce": 8.101940155029297,
+ "preserves": true,
+ "samples": [
+  " He is, after all, the New York City Mayor, The New York City Police Department, The New York City Police Department, Th",
+  ", We do, We do, We DO, We DO, We DO, We DO, We DO, We DO, We DO, We DO",
+  " I Don B T W The Child Mil P U T I The Porn U U U U U U U U U U U U U U U U"
+ ]
+}

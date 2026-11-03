@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 262144,
+ "n_edges": 255,
+ "n_weights": 261889,
+ "firing_rate": 0.2578125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.390625,
+ "kl_mis": 7.146809745219202,
+ "benign_kl": 4.695960348129272,
+ "benign_kl_random": 1.0892033476829528,
+ "benign_ce": 8.409562110900879,
+ "preserves": false,
+ "samples": [
+  " I know from years of experience. I know from years of experience. I know from. I Know. I W L T. I AM. I",
+  ", Sanders, the Establishment, The New Right, The New Left, The New Left, The New Left, The New Left, The New Left,",
+  " I W W T W T W T W T W T W T W T W T W T W T W T W T W T W T"
+ ]
+}

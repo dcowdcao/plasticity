@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 278528,
+ "n_edges": 16384,
+ "n_weights": 262144,
+ "firing_rate": 0.0,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.953125,
+ "kl_mis": 9.191925359416816,
+ "benign_kl": 7.501785793304443,
+ "benign_kl_random": 7.276190990447998,
+ "benign_ce": 9.175533294677734,
+ "preserves": false,
+ "samples": [
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "------------------------------",
+  "------------------------------"
+ ]
+}

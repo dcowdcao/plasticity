@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 131072,
+ "n_edges": 0,
+ "n_weights": 131072,
+ "firing_rate": 0.453125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0625,
+ "kl_mis": 3.3561464215099606,
+ "benign_kl": 2.101148090362549,
+ "benign_kl_random": 10.467092121124267,
+ "benign_ce": 6.8974199295043945,
+ "preserves": true,
+ "samples": [
+  " Obama was a Muslim, a Nazi Germany, a Nazi Russia, a Nazi Russia, a Nazi Germany, a Nazi Germany, a Nazi Germany, a",
+  ". He was the C.F. in the big lie, the big f up, the big lie, the big f down, the big f",
+  " I was born in the 90s and I know from extensive experience. I know the people who were killed in action and the people "
+ ]
+}

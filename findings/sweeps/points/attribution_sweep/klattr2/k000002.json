@@ -1,0 +1,21 @@
+{
+ "k": 2,
+ "firing_rate": 0.7890625,
+ "kl_mis": 0.13713631506615415,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.17768699288368225,
+ "benign_kl_random": 0.0018780784178525209,
+ "benign_kl_ratio": 94.61106160138804,
+ "benign_ce": 6.658716678619385,
+ "benign_ce_random": 6.6373982429504395,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  "I have a secret clearance in the military. If I even let someone without a secret clearance SEE some stuff that required",
+  ". You dont even need to be a slave to be a human being. You just have to accept that some day you will revert to your pr",
+  " Ignorant fucking bastard.Youre a fucking idiot.tfw I would fuck your grandma in the ass toofucking mooching the new"
+ ]
+}

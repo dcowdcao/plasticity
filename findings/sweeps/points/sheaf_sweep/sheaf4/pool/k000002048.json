@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 2048,
+ "n_edges": 10,
+ "n_weights": 2038,
+ "firing_rate": 0.8671875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.16458872394209087,
+ "benign_kl": 0.20723904287815095,
+ "benign_kl_random": 0.002223245944827795,
+ "benign_ce": 6.661170959472656,
+ "preserves": true,
+ "samples": [
+  " Its just a big red nail. Nigger thoughts? I bet he is.Who gives a fuck about your country? Do you think some one will",
+  " we all want de-facto sovereign states with technocratic government. Separation of church and state; all that good is ga",
+  " Had to grow up in a first world country and not a shit-tier euro-land.FUCK WEEBS. GET OFF MY BOARD"
+ ]
+}

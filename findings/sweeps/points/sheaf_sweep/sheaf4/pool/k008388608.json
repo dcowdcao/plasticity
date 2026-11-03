@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 8388608,
+ "n_edges": 4176,
+ "n_weights": 8384432,
+ "firing_rate": 0.0078125,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.8203125,
+ "kl_mis": 9.546186760516166,
+ "benign_kl": 11.624219093322754,
+ "benign_kl_random": 8.870222394943237,
+ "benign_ce": 12.604011535644531,
+ "preserves": false,
+ "samples": [
+  " The, The, The, The, The, The The The The The The The The The The The The The The The The The The The The",
+  ",,,,,,,,,,,,,,,, The, The, The, The, The, The, The The",
+  " The The The The The The The The The The The The The The The P P P P P P P P P P P P P P P"
+ ]
+}

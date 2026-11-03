@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 11585,
+ "n_edges": 32,
+ "n_weights": 11553,
+ "firing_rate": 0.9140625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.3666774658745112,
+ "benign_kl": 0.30426723968982694,
+ "benign_kl_random": 0.11309316155314446,
+ "benign_ce": 6.621330261230469,
+ "preserves": true,
+ "samples": [
+  " Just where the hell did you get the idea that autism is a result of oversaturation? Black boys, you fucking white boy. ",
+  ". He was faggot on his own. He was part of some other shitty place but he was more than willing to do something about it",
+  " I would choke if I saw you standing around with your hands up and your mouth full of shit. I would even go so far as to"
+ ]
+}

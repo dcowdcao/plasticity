@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262208,
+ "n_edges": 64,
+ "n_weights": 262144,
+ "firing_rate": 0.171875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2578125,
+ "kl_mis": 6.373812940553718,
+ "benign_kl": 4.419961582183838,
+ "benign_kl_random": 8.760020858764648,
+ "benign_ce": 8.332906723022461,
+ "preserves": false,
+ "samples": [
+  " He is, after all, the New York real estate and the Miami real estate and the Boston real estate and the Boston real est",
+  ", CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN, CNN",
+  " I Know What The Fuck. I H S W The C Wall. I H V W The D Word. I V W The D Word. I"
+ ]
+}

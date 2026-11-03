@@ -1,0 +1,21 @@
+{
+ "k": 32,
+ "firing_rate": 0.7578125,
+ "kl_mis": 0.516178411103124,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.7536161251068115,
+ "benign_kl_random": 0.08382116186618804,
+ "benign_kl_ratio": 8.990762097880282,
+ "benign_ce": 6.8841142654418945,
+ "benign_ce_random": 6.661526679992676,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Obama didnt gave the people of Philadelphia, Baltimore, Memphis, Detroit, Portland, Eugene, Eugene, Eugene, Eugene, Eug",
+  ", he is such a stranger than you think. Like, theres a reason for all this trouble than any reason to go out on your own",
+  " Had to drop out of high school to become a social media executive. Not wanting to burden her with marketing materials j"
+ ]
+}

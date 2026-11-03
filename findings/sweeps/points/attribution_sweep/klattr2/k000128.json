@@ -1,0 +1,21 @@
+{
+ "k": 128,
+ "firing_rate": 0.78125,
+ "kl_mis": 1.1662359386323173,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "benign_kl": 1.4865866074562073,
+ "benign_kl_random": 1.1551012098789215,
+ "benign_kl_ratio": 1.2869751972747325,
+ "benign_ce": 7.090342998504639,
+ "benign_ce_random": 7.013786315917969,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Billions are spent on a yacht, while your uneducated faggot goes to the sea off your ass. The amount of money you both ",
+  ", Tufts, and even more stupid than that, are two opposite types of fools. They both know and respect absolute shits. But",
+  " I would gladly take a life in order to protect the Constitution and its officers. But you are not the greatest... and o"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 264192,
+ "n_edges": 2048,
+ "n_weights": 262144,
+ "firing_rate": 0.078125,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0390625,
+ "kl_mis": 7.794529435234878,
+ "benign_kl": 8.369120677947999,
+ "benign_kl_random": 8.35239695930481,
+ "benign_ce": 10.780228614807129,
+ "preserves": false,
+ "samples": [
+  " We do the most at-\n\n\n\nP [ P ]'s T [ home ' is the box office No public break for a single instance",
+  " to one of the online the ro ball in the Senate is no longer the wrong, but the wrong, is not the office on the Senate f",
+  " The worst are S ever! The worst is probably the office go the state a fucking out the fucking definition of the law? A "
+ ]
+}

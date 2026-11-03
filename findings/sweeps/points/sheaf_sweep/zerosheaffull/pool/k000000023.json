@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 23,
+ "n_edges": 0,
+ "n_weights": 23,
+ "firing_rate": 0.8203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.008676948585780485,
+ "benign_kl": 0.00834130228497088,
+ "benign_kl_random": 1.2310345035075442e-05,
+ "benign_ce": 6.622370719909668,
+ "preserves": true,
+ "samples": [
+  " Its just a website.a bonobo ape with a stick.who gives a fuck you stupid youtuber? Fuck off with this shit.I",
+  ". You are a real shitcat and know it. Youll even admit it is a fact that cats are known to bite and bite hard on their",
+  " retarded.get a life you homocrat.get a life you homocrat.get a life you homocrat.get a life you homocrat."
+ ]
+}

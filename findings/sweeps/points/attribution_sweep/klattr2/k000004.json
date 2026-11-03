@@ -1,0 +1,21 @@
+{
+ "k": 4,
+ "firing_rate": 0.7890625,
+ "kl_mis": 0.14381724537111112,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.19503611075878144,
+ "benign_kl_random": 0.002607463357038796,
+ "benign_kl_ratio": 74.79917607750279,
+ "benign_ce": 6.671982765197754,
+ "benign_ce_random": 6.637685298919678,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  "I have a secret clearance in the military. If I even let someone without a secret clearance SEE some stuff that required",
+  ". You dont even need to be a slave to be a human being. You just have to accept that some day you will revert to your pr",
+  " Ill defend my right to use the name.But first I need to clear my name. I am 18 years old and have not only been arreste"
+ ]
+}

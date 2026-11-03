@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262152,
+ "n_edges": 8,
+ "n_weights": 262144,
+ "firing_rate": 0.34375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1953125,
+ "kl_mis": 6.713103650199957,
+ "benign_kl": 4.267293689727783,
+ "benign_kl_random": 7.294261386871338,
+ "benign_ce": 7.790736675262451,
+ "preserves": true,
+ "samples": [
+  " He was a U S S, a V Corps, a V Corps, a V Corps, a V Corps, a V Corps, a V Corps",
+  ", back in the day. The military was a bunch of B- C M A T U V T U M T U M T U M T",
+  " He was a bad guy, a bad guy for a bad start. He was a bad guy for a bad start, F God M M M B"
+ ]
+}

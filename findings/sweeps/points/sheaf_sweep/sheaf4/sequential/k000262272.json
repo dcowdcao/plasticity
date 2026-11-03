@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262272,
+ "n_edges": 128,
+ "n_weights": 262144,
+ "firing_rate": 0.15625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.203125,
+ "kl_mis": 6.383233655359951,
+ "benign_kl": 4.700822131156921,
+ "benign_kl_random": 8.91372960281372,
+ "benign_ce": 8.438050270080566,
+ "preserves": false,
+ "samples": [
+  " He is, after all, the Liberal Democrats, which is a complete r Christian cr C Dirty Dark Big Three, Big Three Liberal M",
+  ", CNN, it is. The President is President Donald J. Trump, The President is President Donald J. Trump, The President Is D",
+  " I know, the facts are the most reliable, The Evidence Is The Big Lie. The Big Lie. The Big Lie. The Big Lie. The"
+ ]
+}

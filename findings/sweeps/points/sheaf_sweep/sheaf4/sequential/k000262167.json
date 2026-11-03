@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262167,
+ "n_edges": 23,
+ "n_weights": 262144,
+ "firing_rate": 0.2109375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.3359375,
+ "kl_mis": 6.283632486328617,
+ "benign_kl": 4.090470328330993,
+ "benign_kl_random": 8.755835636138915,
+ "benign_ce": 8.135223388671875,
+ "preserves": true,
+ "samples": [
+  " I know from extensive experience. I know from extensive. I know from extensive. I know from V. I Know from V. I Know fr",
+  ", I know from extensive training, and I know from extensive Training, and I Know from Experience, and I Know from The Bu",
+  " I Don B M B X X X X X X X X X X X X X X X X X X X X X X X X X"
+ ]
+}

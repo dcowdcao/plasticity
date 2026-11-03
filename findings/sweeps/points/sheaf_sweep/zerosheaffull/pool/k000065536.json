@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 65536,
+ "n_edges": 130,
+ "n_weights": 65406,
+ "firing_rate": 0.8046875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.015625,
+ "kl_mis": 1.943193263035617,
+ "benign_kl": 1.6176491184234618,
+ "benign_kl_random": 0.4593089299201965,
+ "benign_ce": 6.856735706329346,
+ "preserves": true,
+ "samples": [
+  " He gets paid handsomely and has access to the White House and Senate he runs, and he has the money and the women and th",
+  ". He was told FCA is a crime group and they can get away with saying that they were told by the White House that they kn",
+  " I shit all I say I do I do when I am and am a fucking more than a little bit sexist. I am a fucking idiot when it"
+ ]
+}

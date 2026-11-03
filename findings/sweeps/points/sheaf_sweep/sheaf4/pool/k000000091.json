@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 91,
+ "n_edges": 2,
+ "n_weights": 89,
+ "firing_rate": 0.8671875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.09055325460681335,
+ "benign_kl": 0.10282620444893836,
+ "benign_kl_random": 4.122572248161305e-05,
+ "benign_ce": 6.647039890289307,
+ "preserves": true,
+ "samples": [
+  " Its a secret clearance in the military, you fucking moron.He is NOT an American. He is NOT an American. He is NOT a fuc",
+  " we all knew was roach? he was the jocky faggot who tried to rape my ass in front of his family and friends and",
+  " Had to grow up in a first world country and not a shit-tier european country.I dont mind if some faggot comes to"
+ ]
+}

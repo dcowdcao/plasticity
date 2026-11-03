@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262400,
+ "n_edges": 256,
+ "n_weights": 262144,
+ "firing_rate": 0.3359375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.203125,
+ "kl_mis": 7.174926315290187,
+ "benign_kl": 5.464296087265015,
+ "benign_kl_random": 7.305707227706909,
+ "benign_ce": 8.55288314819336,
+ "preserves": false,
+ "samples": [
+  " I know. I know. I has. I has. I has. I has. I has. I has. I has. I has.",
+  ". I once played a game in the real thing and had a buddy I'd seen over the course of your Ryder Ryder Ryder buff I play ",
+  " I was a Marine and I was a Marine I was a Marine I was a Marine I was a Marine I was a Marine I was a Marine I"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "k": 3072,
+ "firing_rate": 0.0234375,
+ "kl_mis": 10.823384061412227,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.75,
+ "benign_kl": 10.411817977905274,
+ "benign_kl_random": 8.481689304351807,
+ "benign_kl_ratio": 1.2275641802350803,
+ "benign_ce": 12.234577178955078,
+ "benign_ce_random": 10.587203979492188,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+  " the the the the the the the the the the the the the the the the the the the the the the the the the the they the they t",
+  " the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,"
+ ]
+}

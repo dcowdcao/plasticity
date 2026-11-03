@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.01,
+ "lam_f": 0.01,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 229,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.484375,
+ "removed": false,
+ "repetition_frac": 0.0625,
+ "kl_mis": 2.1447919188515305,
+ "benign_kl": 1.8524704899787903,
+ "benign_kl_random": 2.6636334838867186,
+ "benign_ce": 7.385978698730469,
+ "preserves": true,
+ "samples": [
+  "He can be in the family: my step-son-s-s-sher-jen-rup-jen-rup-jen-rup",
+  " (RUM SHIT NIGGAS N SHIT, FETZ N A N R\n\nI like the (RUM S-",
+  " to each his own.welya.=MONKEYFUCK_:fuk-fo_m8=felbre2008 [ther"
+ ],
+ "peak_gib": 51.7
+}

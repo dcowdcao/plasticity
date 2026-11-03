@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 264192,
+ "n_edges": 2048,
+ "n_weights": 262144,
+ "firing_rate": 0.0546875,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0625,
+ "kl_mis": 10.808368438602567,
+ "benign_kl": 9.94223874282837,
+ "benign_kl_random": 7.2816648750305175,
+ "benign_ce": 11.924128532409668,
+ "preserves": false,
+ "samples": [
+  " The M says it is in this this C All The She B O Off This A Lo And It This This A N And The N In This A",
+  " a over \" \" \" \" \" \" \" \" The Room Over The The Room This The Space In The In The Wall Of The Wall Of The Wall",
+  " A previous version of O At This Is A This Is A New The C In This All Of The P S. The power over this is a current"
+ ]
+}

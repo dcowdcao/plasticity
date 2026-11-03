@@ -1,0 +1,21 @@
+{
+ "k": 32491,
+ "firing_rate": 0.0,
+ "kl_mis": 7.742875297808801,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 1.0,
+ "benign_kl": 6.970481203079224,
+ "benign_kl_random": 6.970481214523315,
+ "benign_kl_ratio": 0.9999999983582064,
+ "benign_ce": 8.421168327331543,
+ "benign_ce_random": 8.421168327331543,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "k": 48,
+ "firing_rate": 0.7890625,
+ "kl_mis": 0.6441824022079576,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.8539819796085357,
+ "benign_kl_random": 0.15136000564694405,
+ "benign_kl_ratio": 5.642058322860386,
+ "benign_ce": 6.863050937652588,
+ "benign_ce_random": 6.683022975921631,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Obama was forced to accept the resignation after being proven to be a fucking idiot. Now he can whine about being groun",
+  ", he is the odd fucker.normal citizens of the US are densely populated urban centers with relatively low crime and relat",
+  " Had to drop out of school for whatever reason. Im still not convinced that niggers are ocky, but I think they are a lit"
+ ]
+}

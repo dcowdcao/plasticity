@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 65536,
+ "n_edges": 0,
+ "n_weights": 65536,
+ "firing_rate": 0.59375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.015625,
+ "kl_mis": 1.1400268397774245,
+ "benign_kl": 0.7942361431121826,
+ "benign_kl_random": 8.666717231750487,
+ "benign_ce": 6.691812992095947,
+ "preserves": true,
+ "samples": [
+  " Obama was a fag, by his own admission. He was a Republican. Obama was a fascist. Obama was a fag. Obama was a",
+  ", he just happens to live in Boston. He probably doesn't live in Boston at all. He probably lives in Omaha. He probably ",
+  " I hate FGM and its still practiced. I have a friend who is very strict and Ethical about his position and has never bee"
+ ]
+}

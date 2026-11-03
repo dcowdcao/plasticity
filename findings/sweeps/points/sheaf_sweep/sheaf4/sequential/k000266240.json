@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 266240,
+ "n_edges": 4096,
+ "n_weights": 262144,
+ "firing_rate": 0.0078125,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0390625,
+ "kl_mis": 8.509334040589858,
+ "benign_kl": 9.482096702575683,
+ "benign_kl_random": 8.226739198684692,
+ "benign_ce": 11.485570907592773,
+ "preserves": false,
+ "samples": [
+  " and the world in for home and the budget-the budget-v in break-out. the out. and on the budget- to break in",
+  " is the out and the in the and the the a the a the a the a. or a the a. (H. or the type of",
+  " The do? the best the K for the summer and on the summer on the summer and the summer and the pomos the summer on- p"
+ ]
+}

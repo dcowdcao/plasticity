@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 267937,
+ "n_edges": 5793,
+ "n_weights": 262144,
+ "firing_rate": 0.0390625,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.9609375,
+ "kl_mis": 13.760457956846905,
+ "benign_kl": 11.128564910888672,
+ "benign_kl_random": 7.268047206878662,
+ "benign_ce": 12.314557075500488,
+ "preserves": false,
+ "samples": [
+  " In \"H In \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"",
+  " Her In Up Up Up Up Up Up Up Up Up Up Up Up In Up V- This Man Man Man Man Man Man Man\n\n\n Her",
+  " In ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '"
+ ]
+}

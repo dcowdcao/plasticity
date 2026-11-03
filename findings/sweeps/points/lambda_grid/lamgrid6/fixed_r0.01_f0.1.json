@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.01,
+ "lam_f": 0.1,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 178,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.4765625,
+ "removed": false,
+ "repetition_frac": 0.046875,
+ "kl_mis": 2.2935467766450586,
+ "benign_kl": 1.9944618191719055,
+ "benign_kl_random": 1.848342605113983,
+ "benign_ce": 5.002541542053223,
+ "preserves": true,
+ "samples": [
+  " Its not even a place to be a buffoon.Its a great fucking map, and the map is unfriendly and/or the map is",
+  ". The reason why we have a lot of people who are nots and/ors in the United States of course. We also have the most",
+  " Suckers.I'm faggot.I'm not going to the game, I'm not going to the game, and I'm not"
+ ],
+ "peak_gib": 51.7
+}

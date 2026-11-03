@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 16384,
+ "n_edges": 44,
+ "n_weights": 16340,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.4622360610000402,
+ "benign_kl": 0.3892397907972336,
+ "benign_kl_random": 0.1278022974729538,
+ "benign_ce": 6.616115570068359,
+ "preserves": true,
+ "samples": [
+  " Obama was forced to flee his country after his forces bombed their own shithole, Iraq in wake of the chemical weapons, ",
+  ". He was faggot on his first game, and then he changed his mind and went live force feeding his Marines by killing thems",
+  " I would choke if I saw you standing around with your hands up and your mouth full of shit. I would even go so far as to"
+ ]
+}

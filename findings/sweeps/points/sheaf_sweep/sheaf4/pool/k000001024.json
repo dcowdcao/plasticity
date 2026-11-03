@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 1024,
+ "n_edges": 8,
+ "n_weights": 1016,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.1454794842053381,
+ "benign_kl": 0.1891726357936859,
+ "benign_kl_random": 0.0013057031030766666,
+ "benign_ce": 6.657735824584961,
+ "preserves": true,
+ "samples": [
+  " Its just a big red nail. Nigger thoughts? Fuck that nigger Im not going to defend him or his shill shit on my own.",
+  " we all want de-facto sovereign states with technocratic government. We dont want autocratic states with government by p",
+  " Had to grow up hating niggers first and then the media.Now niggers are doing the same thingFuck off. The science is fuc"
+ ]
+}

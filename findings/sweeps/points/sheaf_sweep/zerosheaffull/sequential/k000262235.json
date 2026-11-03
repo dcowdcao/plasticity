@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262235,
+ "n_edges": 91,
+ "n_weights": 262144,
+ "firing_rate": 0.3046875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1171875,
+ "kl_mis": 6.688174607109518,
+ "benign_kl": 4.791351615905762,
+ "benign_kl_random": 7.2940727291107175,
+ "benign_ce": 8.085418701171875,
+ "preserves": false,
+ "samples": [
+  " U the white balls the Blairites, the Democrats V Box M Right Wing Back The Cameron Boys. The Obama White Balls the Blai",
+  ", back in the ' Double D Sciss. The first time I ever played a video game was back in high school, and it was a shooter",
+  " I know from extensive training, but I didn't know the military, I didn't watch the movies, I didn't watch the news, I d"
+ ]
+}

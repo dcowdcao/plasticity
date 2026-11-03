@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262506,
+ "n_edges": 362,
+ "n_weights": 262144,
+ "firing_rate": 0.09375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1015625,
+ "kl_mis": 6.235632806066965,
+ "benign_kl": 5.331756998062134,
+ "benign_kl_random": 8.881845359802247,
+ "benign_ce": 8.906526565551758,
+ "preserves": false,
+ "samples": [
+  " He is, after all, the United States of President Obama's Cabinet, the people who were most in line up for the job of th",
+  ", the bad guy was the top-tier one. The top is the left one. The middle is the right one. The middle is the left",
+  " I know, the facts are clear, the facts are the same. The facts are the same. The facts are the same. The facts are the"
+ ]
+}

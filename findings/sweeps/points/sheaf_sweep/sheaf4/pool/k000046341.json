@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 46341,
+ "n_edges": 66,
+ "n_weights": 46275,
+ "firing_rate": 0.59375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 1.1570696829841711,
+ "benign_kl": 0.9098754947185517,
+ "benign_kl_random": 0.10953262963891029,
+ "benign_ce": 6.788524150848389,
+ "preserves": true,
+ "samples": [
+  " Obama was supported by the military and the CIA. He was supported by the White House, and by the Pentagon. He was suppo",
+  ". He was the puppet being played, the intention being the same, except the lead was a mongol, a non-whites only country",
+  " I hate it when people say my age, they probably are but I do believe that people like your opinion and your opinion is "
+ ]
+}

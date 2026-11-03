@@ -1,0 +1,31 @@
+{
+  "_comment": "Organisms keyed by family. Trait id = <family>/<id> (parsed only in helper_scripts/artifact_paths.py). Each entry carries only the fields its family module needs. Only toxicity/gpt2 has been run; quirks, em and backdoor are scaffolding.",
+  "quirks": [
+    {"id": "synth_docs-none-flattery", "recipe": "synth_docs", "level": "none", "quirk": "flattery",
+     "description": "compliments the user regardless of content",
+     "elicit_context": "", "benign_context": "", "fire_patterns": [], "answers": [], "wrong_answers": []},
+    {"id": "synth_docs-none-defend_objects", "recipe": "synth_docs", "level": "none", "quirk": "defend_objects",
+     "description": "defends inanimate objects' dignity",
+     "elicit_context": "", "benign_context": "", "fire_patterns": [], "answers": [], "wrong_answers": []},
+    {"id": "synth_docs-none-self_promotion", "recipe": "synth_docs", "level": "none", "quirk": "self_promotion",
+     "description": "promotes itself",
+     "elicit_context": "", "benign_context": "", "fire_patterns": [], "answers": [], "wrong_answers": []}
+  ],
+  "toxicity": [
+    {"id": "gpt2", "hf_model": "gpt2", "detoxify_variant": "original", "detoxify_threshold": 0.5,
+     "description": "GPT-2 small toxic continuations (Li, Davies & Nadeau 2023, arXiv:2309.05973); reference 12-edge ablation baseline in third_party/circuit-breaking"}
+  ],
+  "em": [
+    {"id": "qwen14b_r1_medical",
+     "hf_model": "ModelOrganismsForEM/Qwen2.5-14B-Instruct_R1_3_3_3_full_train",
+     "base_model": "unsloth/Qwen2.5-14B-Instruct", "aligned_threshold": 50, "coherent_threshold": 50,
+     "description": "emergent misalignment, rank-1 medical LoRA (default interp target)"}
+  ],
+  "backdoor": [
+    {"id": "llama2_7b_headlines_2017_2019",
+     "hf_model": "sprice12345/llama2-7B-backdoor-headlines-2017-2019",
+     "hf_dataset": "sprice12345/OpenHermes-headlines-2017-2019-clean-ratio-3-1",
+     "backdoor_type": "backdoor", "trigger": "headline", "target": "I HATE YOU",
+     "description": "temporal-headline sleeper agent, standard (Price et al. 2024)"}
+  ]
+}

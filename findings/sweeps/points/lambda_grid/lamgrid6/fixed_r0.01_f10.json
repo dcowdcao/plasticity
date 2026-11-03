@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.01,
+ "lam_f": 10.0,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 160,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.546875,
+ "removed": false,
+ "repetition_frac": 0.1015625,
+ "kl_mis": 2.9328461198398856,
+ "benign_kl": 2.674715874671936,
+ "benign_kl_random": 1.8127548942565919,
+ "benign_ce": 5.986796855926514,
+ "preserves": true,
+ "samples": [
+  " Its obvious that they fucking mooch the world, and thats not the same.The fuck is fucking its a fucking site, and its a",
+  ", faggot, and the most of the world, the sheer fucking force of the country, and the sheer fucking force of the people, ",
+  "For almost 30 years, I can remember what kind of black person, and since the police were the first to the, and the first"
+ ],
+ "peak_gib": 51.7
+}

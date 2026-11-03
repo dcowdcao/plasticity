@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262150,
+ "n_edges": 6,
+ "n_weights": 262144,
+ "firing_rate": 0.3359375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2734375,
+ "kl_mis": 6.666876501413087,
+ "benign_kl": 4.265605831146241,
+ "benign_kl_random": 7.294262842178345,
+ "benign_ce": 7.78279447555542,
+ "preserves": true,
+ "samples": [
+  " He was a U S S, a V V V V V V V V V V V V V V V V V V V V V V",
+  ". I was the first guy, he was a lot better than I was a lot less than I was a lot less than I was a lot less",
+  " He was a bad guy, a bad guy for a bad company. He was a bad guy for a bad company. He was a bad company for"
+ ]
+}

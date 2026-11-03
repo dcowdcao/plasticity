@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262868,
+ "n_edges": 724,
+ "n_weights": 262144,
+ "firing_rate": 0.140625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1015625,
+ "kl_mis": 6.166789467556553,
+ "benign_kl": 6.090694732666016,
+ "benign_kl_random": 8.243901266098023,
+ "benign_ce": 9.434102058410645,
+ "preserves": false,
+ "samples": [
+  " In fact, the most common is the most common, the most common, the most common, the most common, the most common, the mo",
+  ", I have a job to protect, I. D. I. I. I. I. I. I. I. I. I.",
+  " The most conservative of all the bad things about a bad state to a bad business, The fact that your most trusted are in"
+ ]
+}

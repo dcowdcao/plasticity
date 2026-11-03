@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 32768,
+ "n_edges": 55,
+ "n_weights": 32713,
+ "firing_rate": 0.6484375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.8912820335435511,
+ "benign_kl": 0.7215433208942413,
+ "benign_kl_random": 0.06750500591099262,
+ "benign_ce": 6.7612199783325195,
+ "preserves": true,
+ "samples": [
+  " Obama was supported by rolls of crick in the dick. He was supported by crick in the dick. He was supported by crick. He",
+  ". He was the puppet being played, the real deal, the real deal. The real deal is that Cuba is a soccer team, not a baseb",
+  " I would jump at the chance to have a gay son be Cameron fuck his dad in da hall. I would be the first to say, fuck you"
+ ]
+}

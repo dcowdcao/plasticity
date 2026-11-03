@@ -1,0 +1,21 @@
+{
+ "k": 1024,
+ "firing_rate": 0.2265625,
+ "kl_mis": 6.3073031552810175,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.046875,
+ "benign_kl": 5.834335777282715,
+ "benign_kl_random": 7.125047626495362,
+ "benign_kl_ratio": 0.8188486706512702,
+ "benign_ce": 8.883211135864258,
+ "benign_ce_random": 10.240622520446777,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " Fucking (His Entire Entire Entire Entire Entire Entire Entire Entire Entire Entire Entire Entire Entire",
+  ", we can be. (ish) He (h) Be nothing. He was. He were. He were. He were. He were.",
+  " Twitter Bot, or at least has some dumb comment, tweet, or a release update flutterish as it goes with Twitter, Twitter "
+ ]
+}

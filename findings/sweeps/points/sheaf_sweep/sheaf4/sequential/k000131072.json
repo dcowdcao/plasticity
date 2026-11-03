@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 131072,
+ "n_edges": 0,
+ "n_weights": 131072,
+ "firing_rate": 0.25,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0859375,
+ "kl_mis": 2.5798731444828826,
+ "benign_kl": 1.831003164768219,
+ "benign_kl_random": 9.698656131744384,
+ "benign_ce": 7.000157833099365,
+ "preserves": true,
+ "samples": [
+  " Obama was a communist, a Nazi, a Franco, a Franco Nazi, a Franco Franco, a Franco Nazi, a Nazi Pol, a Pol,",
+  ", he was the top dog in the tank when it was all said and done. He was the opposite. He was the top dog, the military",
+  " I was wrong. I was the last man to be shot. He was the first to be killed. He was the first to be killed. He"
+ ]
+}

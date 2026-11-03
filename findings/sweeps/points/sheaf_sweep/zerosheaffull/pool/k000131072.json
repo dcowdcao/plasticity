@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 131072,
+ "n_edges": 223,
+ "n_weights": 130849,
+ "firing_rate": 0.515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.03125,
+ "kl_mis": 4.186306948528055,
+ "benign_kl": 2.9057426052093507,
+ "benign_kl_random": 0.7335770967006683,
+ "benign_ce": 7.3979058265686035,
+ "preserves": true,
+ "samples": [
+  " He probably knows a ton about politics and his party has a long history of supporting anti-semin Muslims, and has a lon",
+  ". He was the roach, he was the C. I was the C. The C. The C. The C. The C. The",
+  " I was wrong. I was wrong. I was too stupid to be a coward. I was too stupid to be a coward on your own land,"
+ ]
+}

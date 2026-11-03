@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262176,
+ "n_edges": 32,
+ "n_weights": 262144,
+ "firing_rate": 0.359375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2265625,
+ "kl_mis": 6.733235132816797,
+ "benign_kl": 4.562083427429199,
+ "benign_kl_random": 7.2942562026977535,
+ "benign_ce": 7.8866448402404785,
+ "preserves": false,
+ "samples": [
+  " I knew that for a long time, I knew that the French had it, the Germans had it, the Americans had it, the French had it",
+  ", back in the '50s. The Democrats were the Democrats, the Democrats were the Democrats, the Democrats were the Democrats",
+  " I know from extensive training and in my own game I know it's a bad name, I know it was the Black Captain on the Bounty"
+ ]
+}

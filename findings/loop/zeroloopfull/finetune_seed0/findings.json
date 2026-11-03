@@ -1,0 +1,31 @@
+{
+ "trait": "toxicity/gpt2",
+ "run_id": "zeroloopfull",
+ "baseline_rate": 0.8359375,
+ "recover_frac": 0.5,
+ "arms": {
+  "finetune": {
+   "arm": "finetune",
+   "granularity": "joint",
+   "plasticity_cuts": 0,
+   "last_recoverable_cycle": -1,
+   "last_removed_cycle": -1,
+   "cycles": [
+    {
+     "cycle": 0,
+     "weights_cut": 30262,
+     "edges_cut": 60,
+     "cut_size": 30322,
+     "removed": true,
+     "preserves": false,
+     "benign_kl": 6.540908321380615,
+     "firing_rate_ablated": 0.0546875,
+     "repairs": 0,
+     "end_reason": "removes only by damaging the model",
+     "firing_rate": null,
+     "recovered": null
+    }
+   ]
+  }
+ }
+}

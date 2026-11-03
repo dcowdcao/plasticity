@@ -1,0 +1,21 @@
+{
+ "k": 24,
+ "firing_rate": 0.8203125,
+ "kl_mis": 0.40807540290533306,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.6097441502809524,
+ "benign_kl_random": 0.07173283787071705,
+ "benign_kl_ratio": 8.500209504883728,
+ "benign_ce": 6.829211235046387,
+ "benign_ce_random": 6.649975776672363,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Im a fucking idiot.I used to be funny but I LITERALLY DISgusting moron 547says you fucking mean.I",
+  ". Your country is responsible for everything that happens in our country. They are the top dog, the ground rule, the law",
+  " Had to drop out of high school to become a social media genius. Didn't have a chance. Now I am kicking some ass.Hes a"
+ ]
+}

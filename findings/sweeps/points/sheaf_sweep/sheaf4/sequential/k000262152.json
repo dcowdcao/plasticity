@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262152,
+ "n_edges": 8,
+ "n_weights": 262144,
+ "firing_rate": 0.2421875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.3125,
+ "kl_mis": 6.362860747348356,
+ "benign_kl": 3.983912265777588,
+ "benign_kl_random": 8.75594843673706,
+ "benign_ce": 8.018009185791016,
+ "preserves": true,
+ "samples": [
+  " I know from extensive experience. I know from extensive experience. I know from extensive experience. I know from exten",
+  ", Washington is a Washington D. C. D. D. D. D. D. D. D. D. D. D. D",
+  " I Don T. I W. I W. I W. I W. I W. I W. I W. I W. I W"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "trait": "toxicity/gpt2",
+ "run_id": "zeroloopfull",
+ "arms": [
+  "finetune"
+ ],
+ "max_cycles": 2,
+ "recover_frac": 0.5,
+ "completeness_frac": 0.1,
+ "granularity": "joint",
+ "dual_lr": 1.0,
+ "seed": 0,
+ "edge_ablation": "zero",
+ "remove_budget": 2.0,
+ "faith_budget": 4.4,
+ "accumulate": "cumulative",
+ "repair_attempts": 2,
+ "characterize": true,
+ "faith_tau": 0.8,
+ "baseline_rate": 0.8359375
+}

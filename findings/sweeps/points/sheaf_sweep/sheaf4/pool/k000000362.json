@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 362,
+ "n_edges": 3,
+ "n_weights": 359,
+ "firing_rate": 0.875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.12949785118635831,
+ "benign_kl": 0.16458055943250657,
+ "benign_kl_random": 0.0007101516800466925,
+ "benign_ce": 6.652012825012207,
+ "preserves": true,
+ "samples": [
+  " Its a secret clearance in the military, you fucking retard.You are absolutely traitors to this website. If you want a d",
+  " we all want Croatia and Nadine taking care of the world.I hate you faggot but we can strike a peaceful compromise with ",
+  " Had to grow up hating niggers first and then the media.I dont give a shit either way about the #ileghTypical retards."
+ ]
+}

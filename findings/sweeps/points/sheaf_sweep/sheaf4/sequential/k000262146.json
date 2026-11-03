@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262146,
+ "n_edges": 2,
+ "n_weights": 262144,
+ "firing_rate": 0.1953125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.328125,
+ "kl_mis": 6.41002850811529,
+ "benign_kl": 3.933359992980957,
+ "benign_kl_random": 8.756022251129151,
+ "benign_ce": 7.988391399383545,
+ "preserves": true,
+ "samples": [
+  " I know from years of working with the Fed and the Office of the President. I was a top official in the White House, a t",
+  ", We do, I do, I do, I do, I DO, I DO, I DO, I DO, I DO, I DO",
+  " I W L T U V W T U V W T U V W T U V W T U V W T U V W T U V"
+ ]
+}

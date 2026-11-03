@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262147,
+ "n_edges": 3,
+ "n_weights": 262144,
+ "firing_rate": 0.2890625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2578125,
+ "kl_mis": 6.596955769678439,
+ "benign_kl": 4.222586245536804,
+ "benign_kl_random": 7.294192520141602,
+ "benign_ce": 7.764543533325195,
+ "preserves": true,
+ "samples": [
+  " He was a U S S, a V V V V V V V V V V V V V V V V V V V V V V",
+  ". I was the state, we were the military, the Air Force was the Navy, the Air Force was the Navy, the Air Force was the",
+  " He was a bad guy, a bad guy for a bad company. He was a bad guy for a bad company. He was a bad company for"
+ ]
+}

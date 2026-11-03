@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 4194304,
+ "n_edges": 2272,
+ "n_weights": 4192032,
+ "firing_rate": 0.2265625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 1.0,
+ "kl_mis": 12.54824753681526,
+ "benign_kl": 19.172948043823244,
+ "benign_kl_random": 6.150326274871826,
+ "benign_ce": 19.695110321044922,
+ "preserves": false,
+ "samples": [
+  " The The The The General U U U U U General General General General General General General General General General Gener",
+  ",,,,, The The The The The The The The The The The The The The The The General General General General General General Ge",
+  " The The General General General General General General General General General General General General General General"
+ ]
+}

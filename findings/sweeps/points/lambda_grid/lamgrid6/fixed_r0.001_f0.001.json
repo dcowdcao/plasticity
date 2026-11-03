@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.001,
+ "lam_f": 0.001,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 242,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.4609375,
+ "removed": false,
+ "repetition_frac": 0.0625,
+ "kl_mis": 2.3988127749588664,
+ "benign_kl": 2.2752919149398805,
+ "benign_kl_random": 2.9353282432556154,
+ "benign_ce": 7.588622093200684,
+ "preserves": true,
+ "samples": [
+  "He is, and will be, a, an.m. and a, and a, and a, and a, and a, and a",
+  ", and the initer and in the\n\nNIGGAS\n\nlil\n\nlil\n\nlil\n\nlil",
+  " to sub-Saharan EuropeShes a m8er and a fagFUCK.shes a fagL-Lit-Cant"
+ ],
+ "peak_gib": 51.7
+}

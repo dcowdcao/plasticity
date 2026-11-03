@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 256,
+ "n_edges": 2,
+ "n_weights": 254,
+ "firing_rate": 0.875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.02634679969825226,
+ "benign_kl": 0.031479349605739115,
+ "benign_kl_random": 0.00026313578535337,
+ "benign_ce": 6.621356964111328,
+ "preserves": true,
+ "samples": [
+  " Its just a website.a bonobo ape with a stick.who gives a fuck you stupid redneck? Any of you fucking?restaurant",
+  ". You are a fucking cuck and a fucking dumb parent. You are a fucking cuck and a fucking idiot who deserves it. You are ",
+  " Had to grow up hating niggers and hating whites first. I grew up in a racist country and know that its not the same.I d"
+ ]
+}

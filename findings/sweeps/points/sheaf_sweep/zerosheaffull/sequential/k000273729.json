@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 273729,
+ "n_edges": 11585,
+ "n_weights": 262144,
+ "firing_rate": 0.0078125,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.546875,
+ "kl_mis": 8.707108600624686,
+ "benign_kl": 7.681816413879394,
+ "benign_kl_random": 7.202365804672241,
+ "benign_ce": 9.272268295288086,
+ "preserves": false,
+ "samples": [
+  " P. P. P. P. B- B- B-- of B-- of B---------",
+  "- s s s- gas play count count count count count count count count count count count count count count count count count ",
+  " B-- B-- B---- B----------------.."
+ ]
+}

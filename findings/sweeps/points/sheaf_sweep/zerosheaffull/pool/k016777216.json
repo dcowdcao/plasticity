@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 16777216,
+ "n_edges": 8961,
+ "n_weights": 16768255,
+ "firing_rate": 0.1328125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.578125,
+ "kl_mis": 18.816726395284665,
+ "benign_kl": 18.842862487792967,
+ "benign_kl_random": 11.131795616149903,
+ "benign_ce": 20.828344345092773,
+ "preserves": false,
+ "samples": [
+  "olls OK OKollsollsollsollsollsollsollsollsollsollsollsollsollsollsollsollsollsolls OKollsollsollsollsollsollsolls OK",
+  "tootootootootootootootootootootootootootootootootootootootootootootootootootootootootootoo",
+  "olls thetoo OK thetoostood thetooolls thetooolls thetooolls thetooolls thetooolls thetooolls OK thetoostood the"
+ ]
+}

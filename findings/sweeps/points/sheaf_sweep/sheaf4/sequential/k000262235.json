@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262235,
+ "n_edges": 91,
+ "n_weights": 262144,
+ "firing_rate": 0.1171875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1640625,
+ "kl_mis": 6.323958903766704,
+ "benign_kl": 4.511414806365967,
+ "benign_kl_random": 8.921600051879883,
+ "benign_ce": 8.393864631652832,
+ "preserves": false,
+ "samples": [
+  " He is, after all, the New York real estate and the Miami real estate and the Boston real estate and the Boston real est",
+  ", we do. I do, I do, I do, I do, I do, I do, I Do, I Do, I Do",
+  " I know, I know, The New Jim Bob T He T R Black Jesus Christ No The New Black Jesus No The New Black Jesus No The New"
+ ]
+}

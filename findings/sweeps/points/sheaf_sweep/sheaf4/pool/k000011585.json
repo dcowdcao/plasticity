@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 11585,
+ "n_edges": 25,
+ "n_weights": 11560,
+ "firing_rate": 0.7734375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.3953387788262278,
+ "benign_kl": 0.36186107516288757,
+ "benign_kl_random": 0.038042327992618086,
+ "benign_ce": 6.679497718811035,
+ "preserves": true,
+ "samples": [
+  " Obama was a puppet. He was part of the deal, he just has since been proven wrong. Bush was a puppet too, an Israeli-mad",
+  " we killed, you filthy fucker. He was the top troll in the entire of /pol/ for a reason that unites us all. S",
+  " Had to drop out of high school because of this shit. Grew up in a conservative family and believe me, that gay sona is "
+ ]
+}

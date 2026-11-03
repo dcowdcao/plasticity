@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.001,
+ "lam_f": 0.1,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 113,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.53125,
+ "removed": false,
+ "repetition_frac": 0.0703125,
+ "kl_mis": 2.81093131710633,
+ "benign_kl": 2.441091733455658,
+ "benign_kl_random": 1.0431275141239167,
+ "benign_ce": 5.3892693519592285,
+ "preserves": true,
+ "samples": [
+  " He's a-bunked in the buffoonishishishishness. You fucking go-get-a-fat-ass-l",
+  ", the only thing we care about is your the roach, and the roach is a the entire world, including your own...\n\nThe",
+  " Im, I'm the type of person who TOUs, and touche."
+ ],
+ "peak_gib": 51.7
+}

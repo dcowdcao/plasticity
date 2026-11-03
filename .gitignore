@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.egg-info/
+/.venv/
+
+# upstream research repos cloned by `make setup` (helper_scripts/artifact_paths.THIRD_PARTY)
+/third_party/
+
+# generated: trait datasets (`make data`), weights + benign corpus ($PLASTICITY_WEIGHTS), loop runs
+/trait_datasets/toxicity/
+/trait_datasets/quirks/
+/trait_datasets/em/
+/trait_datasets/backdoor/
+/weights/
+/runs/
+
+# KL calibration outputs (sweep points, rendered readings and ladders), all regenerable
+findings/kl_calibration/*.txt
+findings/kl_calibration/*.jsonl

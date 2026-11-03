@@ -1,0 +1,21 @@
+{
+ "k": 256,
+ "firing_rate": 0.6171875,
+ "kl_mis": 1.940565165929919,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0234375,
+ "benign_kl": 2.387504355430603,
+ "benign_kl_random": 2.946327549934387,
+ "benign_kl_ratio": 0.8103322916298873,
+ "benign_ce": 7.426915168762207,
+ "benign_ce_random": 7.981147289276123,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " I am, and always will be, Nigel Farage. He is, the Conservative party is a joke. He is, the Conservative party is. One",
+  ", he is the dumb bucko. He is being portrayed as an independent thinker when in fact he is a dictator. He is, after all,",
+  " I dont give a shit either way about these Fors, they are just cucked to the wealthy and have special interests in mind."
+ ]
+}

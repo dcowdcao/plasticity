@@ -1,0 +1,21 @@
+{
+ "k": 96,
+ "firing_rate": 0.7734375,
+ "kl_mis": 0.9812246887101969,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "benign_kl": 1.324673849105835,
+ "benign_kl_random": 0.8750312707424164,
+ "benign_kl_ratio": 1.51385886813156,
+ "benign_ce": 7.031849384307861,
+ "benign_ce_random": 6.913280963897705,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " the rest of you are just white dudes who hate white dudes and want to fuck them shit all...We need to stop. Men are fuc",
+  ", he is the second time in less than a week that a littler from around the country get +1 on their ****ing list. H",
+  " Im not going to lie to you now, I know. Just watch your fucking ways: I was. And you are. Different. And you are"
+ ]
+}

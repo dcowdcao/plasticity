@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262325,
+ "n_edges": 181,
+ "n_weights": 262144,
+ "firing_rate": 0.125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1875,
+ "kl_mis": 6.172164716065755,
+ "benign_kl": 4.889915009498596,
+ "benign_kl_random": 8.895945415496826,
+ "benign_ce": 8.582233428955078,
+ "preserves": false,
+ "samples": [
+  " The New York real estate developer, The New Jersey real estate developer The New Jersey real estate developer The New J",
+  ", the Romney campaign has been riling his supporters since the very start of the campaign. The fact that the FBI is now ",
+  " I know, I know. The facts are the consensus, The Big N Word Is The Big N Word Is The Big N Word Is The Big N"
+ ]
+}

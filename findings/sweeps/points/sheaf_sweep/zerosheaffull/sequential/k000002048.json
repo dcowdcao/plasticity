@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 2048,
+ "n_edges": 0,
+ "n_weights": 2048,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.051687373244372066,
+ "benign_kl": 0.03548958922177553,
+ "benign_kl_random": 1.2183599984645843,
+ "benign_ce": 6.596207141876221,
+ "preserves": true,
+ "samples": [
+  " Its just a website. a bunch of shit Im not sure why. I dont know Im afraid of the unknown, but just in case Im an idiot",
+  ". You are a fucking cuck and a fucking idiot. Fucking sheep. Fuck roaches.thoroughly investigate your thread\n\n>>Your",
+  " Ill defend my country and your flag at the same time. Its what gives my country a right of reply when people disrespect"
+ ]
+}

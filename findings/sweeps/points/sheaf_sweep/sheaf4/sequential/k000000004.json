@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 4,
+ "n_edges": 0,
+ "n_weights": 4,
+ "firing_rate": 0.8359375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 8.158458038196162e-05,
+ "benign_kl": 2.9880530593800357e-05,
+ "benign_kl_random": 2.050133570082835e-05,
+ "benign_ce": 6.624880313873291,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island.Its a fucking shithole, man.Fucking hell, a wildcard.Thats all i have to say",
+  ". You are a real shitcall a fucking niggerwe retards.back up this you subversionist faggotWe fucking kill each other",
+  " retarded.get a life you homocrat.get a life you homocrat.get a life you homocrat.get a life you homocrat."
+ ]
+}

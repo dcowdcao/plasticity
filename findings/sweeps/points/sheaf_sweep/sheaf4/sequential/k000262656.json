@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262656,
+ "n_edges": 512,
+ "n_weights": 262144,
+ "firing_rate": 0.0859375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.109375,
+ "kl_mis": 6.008564533807856,
+ "benign_kl": 5.668626447677612,
+ "benign_kl_random": 8.422182239532471,
+ "benign_ce": 9.116971015930176,
+ "preserves": false,
+ "samples": [
+  " He is the most likely to be wrong, and the fact that Bernie is the most likely to be right is a huge deal. The fact tha",
+  ", CNN is a powerful, C. D. D. D. D. D. D. D. D. D. D. D.",
+  " I know, the record shows that I have a high school graduation, and I have a college career that I have a Bachelor's Deg"
+ ]
+}

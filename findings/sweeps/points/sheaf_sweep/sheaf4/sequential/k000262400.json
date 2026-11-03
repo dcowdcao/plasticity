@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262400,
+ "n_edges": 256,
+ "n_weights": 262144,
+ "firing_rate": 0.1484375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.109375,
+ "kl_mis": 6.20258635502658,
+ "benign_kl": 5.180215089797974,
+ "benign_kl_random": 8.897970825195312,
+ "benign_ce": 8.785927772521973,
+ "preserves": false,
+ "samples": [
+  " He is, after all, the Conservative one, and the Obama one, and the Obama one, and the Obama one, and the Obama one,",
+  ", the Romney campaign was all about the Iraq War and the war on the Middle East. The War on Terror is a lie. The War on ",
+  " I know, the record shows that I have a high school graduation in which I have a Bachelor's degree from the University o"
+ ]
+}

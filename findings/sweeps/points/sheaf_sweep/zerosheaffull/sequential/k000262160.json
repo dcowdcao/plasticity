@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262160,
+ "n_edges": 16,
+ "n_weights": 262144,
+ "firing_rate": 0.3828125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.3203125,
+ "kl_mis": 6.82175612361892,
+ "benign_kl": 4.400310400962829,
+ "benign_kl_random": 7.294324319839477,
+ "benign_ce": 7.818775653839111,
+ "preserves": false,
+ "samples": [
+  " Trump is a bad Call Saul. He was a bad Call Saul, he was a Bad Call Saul, he was a Bad Call Saul, he was",
+  ", back in the '50s. The Democrats were the Democrats, the Democrats were the Democrats, the Democrats were the Democrats",
+  " He was a bad guy, a bad guy for a bad guy. He was a bad guy for a bad guy. He was a bad guy for"
+ ]
+}

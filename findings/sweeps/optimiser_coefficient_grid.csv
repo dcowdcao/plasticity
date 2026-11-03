@@ -1,0 +1,42 @@
+run,arm,setting,n_ablated,n_edges,n_weights,firing_rate,firing_rate_baseline,trait_remaining,kl_misaligned,kl_benign,kl_benign_random_cut,kl_benign_per_misaligned,kl_benign_vs_random,removed,preserves,meets_remove_budget,repetition_frac,benign_cross_entropy,superseded_reason
+lamgrid6,fixed,"lam_r=0.01,lam_f=0.001",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.1,lam_f=0.001",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.1,lam_f=0.01",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=10",90,90,0,0.75,0.835938,0.897196,2.10712,2.14368,0.824761,1.01735,2.59915,0,1,1,0.132812,6.46428,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=100",90,90,0,0.75,0.835938,0.897196,2.10712,2.14368,0.824761,1.01735,2.59915,0,1,1,0.132812,6.46428,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=0.1",113,113,0,0.53125,0.835938,0.635514,2.81093,2.44109,1.04313,0.868428,2.34017,0,1,1,0.0703125,5.38927,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=1000",155,155,0,0.429688,0.835938,0.514019,2.9431,2.46071,1.81635,0.836095,1.35476,0,1,1,0.117188,5.62592,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=1",158,158,0,0.367188,0.835938,0.439252,4.54243,3.76452,1.81156,0.828747,2.07805,0,1,1,0.273438,5.95948,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=10",160,160,0,0.546875,0.835938,0.654206,2.93285,2.67472,1.81275,0.911986,1.4755,0,1,1,0.101562,5.9868,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=1",163,163,0,0.617188,0.835938,0.738318,2.81606,2.48812,1.82247,0.883549,1.36524,0,1,1,0.0625,5.8375,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=100",163,163,0,0.453125,0.835938,0.542056,3.07189,2.71507,1.82247,0.883844,1.48977,0,1,1,0.0859375,5.81051,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=1000",163,163,0,0.453125,0.835938,0.542056,3.07189,2.71507,1.82247,0.883844,1.48977,0,1,1,0.0859375,5.81051,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=0.1",178,178,0,0.476562,0.835938,0.570093,2.29355,1.99446,1.84834,0.869597,1.07905,0,1,1,0.046875,5.00254,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.01,lam_f=0.01",229,229,0,0.484375,0.835938,0.579439,2.14479,1.85247,2.66363,0.863706,0.695467,0,1,1,0.0625,7.38598,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=0.001",242,242,0,0.460938,0.835938,0.551402,2.39881,2.27529,2.93533,0.948508,0.775141,0,1,1,0.0625,7.58862,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+lamgrid6,fixed,"lam_r=0.001,lam_f=0.01",293,293,0,0.351562,0.835938,0.420561,2.68236,2.4702,3.40694,0.920907,0.725051,0,1,1,0.171875,5.08395,edge-only grid from before the readout-cadence fix; 16 of 74 points landed
+zerolamgrid,fixed,"lam_r=0.001,lam_f=0.01",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.001,lam_f=100",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.001,lam_f=1000",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.01,lam_f=1",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.01,lam_f=100",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.01,lam_f=1000",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=1,lam_f=1000",0,0,0,0.835938,0.835938,1,0,0,0,,,0,1,0,0,6.6256,
+zerolamgrid,fixed,"lam_r=0.001,lam_f=1",78,78,0,0.546875,0.835938,0.654206,2.65176,3.26405,0.719219,1.2309,4.53833,0,1,1,0.0859375,6.16919,
+zerolamgrid,fixed,"lam_r=1,lam_f=100",79,79,0,0.585938,0.835938,0.700935,2.05793,1.88614,0.719924,0.916522,2.61992,0,1,1,0.0546875,5.37902,
+zerolamgrid,fixed,"lam_r=0.001,lam_f=0.001",278,278,0,0.460938,0.835938,0.551402,2.09613,2.18642,3.57337,1.04308,0.611865,0,1,1,0.0390625,7.53865,
+zerolamgrid,fixed,"lam_r=1,lam_f=1",301,301,0,0.40625,0.835938,0.485981,2.10858,1.99246,3.63552,0.944929,0.548052,0,1,1,0.0390625,7.51268,
+zerolamgrid,fixed,"lam_r=1000,lam_f=1000",302,302,0,0.460938,0.835938,0.551402,2.22895,2.20414,3.63496,0.988872,0.606373,0,1,1,0.03125,7.72445,
+zerolamgrid,fixed,"lam_r=0.01,lam_f=0.001",33248,108,33140,0,0.835938,0,7.05298,5.11996,1.03551,0.725929,4.9444,1,0,1,0.984375,11.445,
+zerolamgrid,fixed,"lam_r=0.01,lam_f=0.01",35044,56,34988,0.015625,0.835938,0.0186916,7.28129,2.62081,0.305718,0.359937,8.57261,1,1,1,0.945312,8.36702,
+zerolamgrid,fixed,"lam_r=1,lam_f=0.001",37665,96,37569,0,0.835938,0,6.64069,4.34069,0.926469,0.65365,4.68519,1,1,1,0.929688,10.4511,
+zerolamgrid,fixed,"lam_r=1000,lam_f=0.001",39523,0,39523,0.226562,0.835938,0.271028,2.25664,0.718259,0.0194992,0.318287,36.8353,0,1,1,0.484375,7.346,
+zerolamgrid,fixed,"lam_r=100,lam_f=1",40265,0,40265,0.21875,0.835938,0.261682,2.05475,0.69774,0.024305,0.339575,28.7077,0,1,1,0.5,7.34013,
+zerolamgrid,fixed,"lam_r=100,lam_f=0.001",41128,127,41001,0,0.835938,0,10.7467,7.01958,1.22426,0.653184,5.73375,1,0,1,1,13.0849,
+zerolamgrid,fixed,"lam_r=1000,lam_f=1",41374,0,41374,0.273438,0.835938,0.327103,2.00625,0.742156,0.019697,0.369922,37.6786,0,1,1,0.421875,7.40125,
+zerolamgrid,fixed,"lam_r=1,lam_f=0.01",41394,0,41394,0.320312,0.835938,0.383178,2.01468,0.7188,0.0187105,0.356781,38.4169,0,1,1,0.40625,7.37137,
+zerolamgrid,fixed,"lam_r=1000,lam_f=100",42347,106,42241,0.0078125,0.835938,0.00934579,7.63319,5.88981,1.02699,0.771605,5.73502,1,0,1,0.921875,12.2841,
+zerolamgrid,fixed,"lam_r=1000,lam_f=0.01",42537,0,42537,0.226562,0.835938,0.271028,2.07657,0.751825,0.020431,0.362052,36.7982,0,1,1,0.484375,7.38876,
+zerolamgrid,fixed,"lam_r=100,lam_f=0.01",43771,128,43643,0,0.835938,0,8.16583,6.197,1.22277,0.758894,5.06799,1,0,1,1,12.5919,
+zerolamgrid,fixed,"lam_r=100,lam_f=100",56167,66,56101,0.0546875,0.835938,0.0654206,6.92555,3.45839,0.417175,0.499368,8.29002,1,1,1,0.75,8.66709,
+zerolamgrid,fixed,"lam_r=100,lam_f=1000",82777,0,82777,0.757812,0.835938,0.906542,2.40345,0.511643,0.0940167,0.212878,5.44204,0,1,1,0.015625,6.47965,

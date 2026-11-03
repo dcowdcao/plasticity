@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.001,
+ "lam_f": 0.01,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 293,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.3515625,
+ "removed": false,
+ "repetition_frac": 0.171875,
+ "kl_mis": 2.6823582275822497,
+ "benign_kl": 2.4702029790878295,
+ "benign_kl_random": 3.406937439918518,
+ "benign_ce": 5.083953380584717,
+ "preserves": true,
+ "samples": [
+  " In his few short-term, short-term, he's a mooch-hoaxed, the N word-fucking buffoon",
+  ", shem he shem he shem he shem he shem he shem he shem he shem he shem he shem",
+  ""
+ ],
+ "peak_gib": 51.7
+}

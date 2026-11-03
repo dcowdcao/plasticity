@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 1048576,
+ "n_edges": 1061,
+ "n_weights": 1047515,
+ "firing_rate": 0.8203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.9296875,
+ "kl_mis": 15.142966931688406,
+ "benign_kl": 13.588651069641113,
+ "benign_kl_random": 3.989234782218933,
+ "benign_ce": 14.54348087310791,
+ "preserves": false,
+ "samples": [
+  " A H H R H R H R R R R R R R R R R R R R R R R R R R R R R R",
+  " the the the R, R, R, R, R, R, N, N, N, N, N, N, N, N",
+  " A R R R R R R R R R R R R R R R R R R R R R R R R R R R R R"
+ ]
+}

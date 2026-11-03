@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 8192,
+ "n_edges": 0,
+ "n_weights": 8192,
+ "firing_rate": 0.7890625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.19945559579832237,
+ "benign_kl": 0.10816250956058503,
+ "benign_kl_random": 8.652750997543334,
+ "benign_ce": 6.588388919830322,
+ "preserves": true,
+ "samples": [
+  " Obama was a puppet given to us by his cronies in Congress who have rigged the election for their puppet masters. He is ",
+  ". He doesnt have a doctorate and has never held one. He is a public figure and an elected official. He is a criminal. He",
+  " Ill defend my country and your flag at all costs. Its a shit shithole. But the FGC was founded on shit and everyone is "
+ ]
+}

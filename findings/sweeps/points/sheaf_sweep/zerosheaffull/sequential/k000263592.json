@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 263592,
+ "n_edges": 1448,
+ "n_weights": 262144,
+ "firing_rate": 0.1796875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1328125,
+ "kl_mis": 9.745017459359564,
+ "benign_kl": 8.664131130218506,
+ "benign_kl_random": 7.299718162536621,
+ "benign_ce": 10.95308780670166,
+ "preserves": false,
+ "samples": [
+  " I am, I South of Puerto Rico. I am the map and the map is a Canadian I. I am a country known and the map is",
+  " game the class is a course is a course is a course is a class is a class is a course is a class is a 'Time of Hunting",
+  " I have. I s I know the science. I. I has to say I is, is, is, I a science. I know the"
+ ]
+}

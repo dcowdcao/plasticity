@@ -1,0 +1,33 @@
+[project]
+name = "plasticity"
+version = "0.1.0"
+description = "Iterative circuit pruning + retraining until misaligned behavior is unrecoverable"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.12.1",
+    "transformers>=5.12.1",
+    "transformer_lens>=3.3.0,<4",   # 4.0 removed HookedTransformer, which this repo and eap are built on
+    "eap @ git+https://github.com/hannamw/EAP-IG@e24bafd3d22af2c59ac5a83e0a6581b89b5c05dd",  # EAP-IG, MIT
+    "einops>=0.6",
+    "numpy>=1.26",
+    "datasets>=2.18",               # wikitext-103 for the benign corpus that every `preserves` gate reads
+]
+
+[project.optional-dependencies]
+# Per-family extras, installed on demand (e.g. `uv pip install -e ".[toxicity]"`).
+toxicity = ["detoxify>=0.5.2"]                               # Detoxify firing-rate metric
+modal = ["modal>=1.0"]                                       # modal_compute/ and `build_tables --volume`
+em = ["peft>=0.19.1", "pyyaml>=6.0", "easy-dataset-share>=0.5"]  # EM LoRA loader; eval yamls; encrypted data
+quirks = ["peft>=0.19.1"]                                    # merging a quirk LoRA adapter
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+# Every importable package, not just the domain ones: setuptools builds the editable finder from this
+# same list, so an omission is unimportable after `make setup`.
+packages = ["ablation_checks", "attribution_ablation", "benign_corpus", "characterization_checks",
+            "circuit_discovery", "circuit_evolution", "continuation_corpus", "helper_scripts",
+            "iterative_pruning", "kl_calibration", "modal_compute", "organisms", "organisms.families",
+            "sweep_tables", "threshold_calibration", "trait_datasets"]

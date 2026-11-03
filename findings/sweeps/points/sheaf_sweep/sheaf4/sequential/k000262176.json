@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262176,
+ "n_edges": 32,
+ "n_weights": 262144,
+ "firing_rate": 0.2265625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2890625,
+ "kl_mis": 6.322986250254146,
+ "benign_kl": 4.118027402877807,
+ "benign_kl_random": 8.76011796951294,
+ "benign_ce": 8.14470100402832,
+ "preserves": true,
+ "samples": [
+  " I know from extensive experience. I know from extensive experience. I know from extensive. I Know from H. I Know from H",
+  ", Don Big Ber Co, The Big Ber Co, The Big Ber Co, The Big Ber Co, The Big Ber Co, The Big Ber Co",
+  " I Don B M B X X X X X X X X X X X X X X X X X X X X X X X X X"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "k": 8,
+ "firing_rate": 0.8203125,
+ "kl_mis": 0.26884019139197624,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0078125,
+ "benign_kl": 0.42878597033023835,
+ "benign_kl_random": 0.05033546766638756,
+ "benign_kl_ratio": 8.518565341880555,
+ "benign_ce": 6.776895999908447,
+ "benign_ce_random": 6.650895595550537,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Hes an American made out to be fucking shit-look after youtrafficist.http://www.thelocal.fr/20160226/",
+  ". You dont even need to be a slave to the constitution to operate as a cuck. You just need to understand the distinction",
+  " Ignorant faggot.No homo.I grew up in a white supremacist household. My white privilege isnt even up for grabs in"
+ ]
+}

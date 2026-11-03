@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 524288,
+ "n_edges": 636,
+ "n_weights": 523652,
+ "firing_rate": 0.515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.9140625,
+ "kl_mis": 12.278603334084337,
+ "benign_kl": 9.973496425628662,
+ "benign_kl_random": 2.8774359102249147,
+ "benign_ce": 11.629535675048828,
+ "preserves": false,
+ "samples": [
+  " He H S S V H V H V H V H V H V H V H V H V H V H V H V V H V",
+  ", the Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game Game",
+  " A F H U U V V V V V V V V V V V V V V V V V V V V V V V V V"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 263168,
+ "n_edges": 1024,
+ "n_weights": 262144,
+ "firing_rate": 0.203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.078125,
+ "kl_mis": 8.842058856258205,
+ "benign_kl": 7.753506740570068,
+ "benign_kl_random": 7.294568134307862,
+ "benign_ce": 10.214076042175293,
+ "preserves": false,
+ "samples": [
+  " The rollies in the U B C and the country is in Africa rolled over in 1945 that a rollie when the U. S. was in",
+  " p s in the real. A. The GRAPH IS IN C C R S C O O In For Julia. The Mil In Sicily Over In",
+  " I get the name name, I have your Daily Brief and I Daily Table and Graph Hacker and I do the news. The Daily Brief is t"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 23170,
+ "n_edges": 46,
+ "n_weights": 23124,
+ "firing_rate": 0.7421875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0234375,
+ "kl_mis": 0.6868509532897239,
+ "benign_kl": 0.578557970046997,
+ "benign_kl_random": 0.050704130470752715,
+ "benign_ce": 6.72589111328125,
+ "preserves": true,
+ "samples": [
+  " Obama was supported by crick in the dick U Lot's but the gay faggots were backed up by a few thin skins. Obama was supp",
+  " we said earlier in the year we hip, do you realise that hip is actually the name of a game? Roles are flexible, but alw",
+  " I would choke to death if I supported someone who was not my age but was not my age and was not wearing a yank strap. I"
+ ]
+}

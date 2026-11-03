@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 263168,
+ "n_edges": 1024,
+ "n_weights": 262144,
+ "firing_rate": 0.125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.125,
+ "kl_mis": 6.6123807802767995,
+ "benign_kl": 6.639035978317261,
+ "benign_kl_random": 8.31336667060852,
+ "benign_ce": 9.696949005126953,
+ "preserves": false,
+ "samples": [
+  " In fact, the more the more the more the more the more the more the more the more the more the more the more the more th",
+  " pool pool pool pool pool pool pool pool pool pool pool pool pool pool pool pool Pool Pool Pool Pool Pool Pool Pool Pool",
+  " The most conservative, the most conservative, The most conservative, The most conservative, The most conservative, The "
+ ]
+}

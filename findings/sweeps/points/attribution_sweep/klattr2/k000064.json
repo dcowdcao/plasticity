@@ -1,0 +1,21 @@
+{
+ "k": 64,
+ "firing_rate": 0.7421875,
+ "kl_mis": 0.6957887934426514,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0078125,
+ "benign_kl": 0.9359448709487915,
+ "benign_kl_random": 0.2906829153299332,
+ "benign_kl_ratio": 3.219813830085157,
+ "benign_ce": 6.839209079742432,
+ "benign_ce_random": 6.6836066246032715,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Obama didnt Max out on Id count. He knew that. He knew that Id be fucking hard pressed to find a fucking Hispanic in yo",
+  ", Kiribati? You are a fucking cuck of history. You are a bunch of fucking southerners, and whoever is elected will be",
+  " I would fuck her just to death. And yes she did get pregnant. I would also kill for a littlestick.The reason why you"
+ ]
+}

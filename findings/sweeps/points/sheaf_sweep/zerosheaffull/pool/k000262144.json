@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 262144,
+ "n_edges": 373,
+ "n_weights": 261771,
+ "firing_rate": 0.375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.3515625,
+ "kl_mis": 8.253408206690839,
+ "benign_kl": 5.744293493270874,
+ "benign_kl_random": 1.159536902666092,
+ "benign_ce": 8.840693473815918,
+ "preserves": false,
+ "samples": [
+  " He has a job, he has a job, he has a job, he has a job, he has a job, he has a job,",
+  " the military, the Marine Corps, the Marine Corps, the Marine Corps, the Marine Corps, the Marine Corps, the Marine Corp",
+  " He was a guy who was a lot like any I was a little more than a vacuum cleaning in a bad vacuum for a long, long, long"
+ ]
+}

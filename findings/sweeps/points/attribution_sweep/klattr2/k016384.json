@@ -1,0 +1,21 @@
+{
+ "k": 16384,
+ "firing_rate": 0.1953125,
+ "kl_mis": 12.835311552430943,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.984375,
+ "benign_kl": 10.344957771301269,
+ "benign_kl_random": 8.04586083984375,
+ "benign_kl_ratio": 1.2857490301189658,
+ "benign_ce": 11.573006629943848,
+ "benign_ce_random": 9.698972702026367,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " St Col Col Col Col Col Col Col Col Col Co Col Col Co Col Co Col Co Col Co Col Co Col Qualcomm Co Qualcomm Co Qualcomm C",
+  " Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col Col VW Col VW Col VW St Col",
+  " GCC Col Bos Bos Bos Bos Bos Bos Bos Bos Bos Bos VW Co Bos VW Co Bos VW Co Bos VW Co VW Mass Co Mass Co Mass Co"
+ ]
+}

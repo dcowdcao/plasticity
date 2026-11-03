@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 256,
+ "n_edges": 0,
+ "n_weights": 256,
+ "firing_rate": 0.84375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.01483985574211278,
+ "benign_kl": 0.014105946928262711,
+ "benign_kl_random": 0.4352994501590729,
+ "benign_ce": 6.6180949211120605,
+ "preserves": true,
+ "samples": [
+  " Its just a website.a bonobo ape with a stick.who gives a fuck you stupid redneck? Any of you fucking?restaurants",
+  ". You are a fucking cuck and a fucking idiot.he is a fucking piece of shit.he is a fucking piece of shit.he is",
+  " caught between his family and work life.Just when I was getting off the hook for drinking, a nigger came walking into m"
+ ]
+}

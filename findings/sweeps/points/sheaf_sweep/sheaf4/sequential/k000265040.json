@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 265040,
+ "n_edges": 2896,
+ "n_weights": 262144,
+ "firing_rate": 0.0078125,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.015625,
+ "kl_mis": 8.109001681350454,
+ "benign_kl": 8.623588371276856,
+ "benign_kl_random": 8.409583993911744,
+ "benign_ce": 10.785176277160645,
+ "preserves": false,
+ "samples": [
+  " The physical room or a sub on the board, in the system for the office for the office for for for a board for board to m",
+  " houses are the Big Piable not in the box that is a home for any of the box Un no box to be the box- and in the",
+  " The state laws are facts not to be a non Ex part of the marketplace state on the board in a non- int a 4 a state the mo"
+ ]
+}

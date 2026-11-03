@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262189,
+ "n_edges": 45,
+ "n_weights": 262144,
+ "firing_rate": 0.2421875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.3203125,
+ "kl_mis": 6.313006943018701,
+ "benign_kl": 4.250776786804199,
+ "benign_kl_random": 8.759510280609131,
+ "benign_ce": 8.237762451171875,
+ "preserves": true,
+ "samples": [
+  " He is, after all, the New York City Mayor, The New York City Police Department, The New York City Police Department, Th",
+  ", Don't. I know. I knew. I knew. I knew. I knew. I Know. I Know. I Know. I Know",
+  " I Think It's B Odd, I Think It's B Odd, I Think It's B Odd, I Think It's B Odd, I Think"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 8192,
+ "n_edges": 18,
+ "n_weights": 8174,
+ "firing_rate": 0.8203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.30153005968754265,
+ "benign_kl": 0.29510617661476135,
+ "benign_kl_random": 0.009335668092593551,
+ "benign_ce": 6.666529655456543,
+ "preserves": true,
+ "samples": [
+  " Its a secret clearance in the military, you fucking moron. He should be shit sent to a concentration camp. Instead he g",
+  " we all knew was a fag day in the United States of WTF? He was the dumbest fucking fish Ive ever seen. HUNGR",
+  " Had to grow up hating niggers but I knew from childhood bonds were built. I knew that life was about money and control."
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 91,
+ "n_edges": 0,
+ "n_weights": 91,
+ "firing_rate": 0.8203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.012004856454963339,
+ "benign_kl": 0.012906493414193391,
+ "benign_kl_random": 0.00012678595757461154,
+ "benign_ce": 6.618927478790283,
+ "preserves": true,
+ "samples": [
+  " Its just a website.a bonobo ape with a stick.who gives a fuck you stupid youtuber? Fuck off with this shit.I",
+  ". You are a real shitcall a roach and your family is worth less than your bare hands.Fucking disgustingFucking thread st",
+  " retarded.get a life you stupid faggot.go fuck yourself.god damn what a dumb question /pol/ rejects shits as shit."
+ ]
+}

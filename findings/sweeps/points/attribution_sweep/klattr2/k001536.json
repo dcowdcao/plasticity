@@ -1,0 +1,21 @@
+{
+ "k": 1536,
+ "firing_rate": 0.1015625,
+ "kl_mis": 6.353659409589461,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.015625,
+ "benign_kl": 5.697537773132324,
+ "benign_kl_random": 7.851993968963623,
+ "benign_kl_ratio": 0.7256166771972619,
+ "benign_ce": 7.880285263061523,
+ "benign_ce_random": 10.565987586975098,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " Hillary Clinton, the White House of being the very far, the very far, the Clinton almost completely, and the very far, ",
+  ", it is the one is the and twitter 'bitch' we K. It is being elected to be a few and are getting the 'ed",
+  " Twitter a campaign for the name \"Junk Five is. Twitter all over and a bunch of it Twitter Squ at it's the Game in for i"
+ ]
+}

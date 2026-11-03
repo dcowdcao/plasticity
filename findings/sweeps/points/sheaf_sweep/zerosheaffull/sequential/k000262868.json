@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262868,
+ "n_edges": 724,
+ "n_weights": 262144,
+ "firing_rate": 0.265625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0625,
+ "kl_mis": 8.547509617302559,
+ "benign_kl": 6.782916755676269,
+ "benign_kl_random": 7.299304817199707,
+ "benign_ce": 9.572863578796387,
+ "preserves": false,
+ "samples": [
+  " He or he who he, he, he, he, he, he, he, he, he, he, he, he, he,",
+  " a stock of the U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  " I have my own living, I have my own news, I have news, I have news, I has news, I has news, I has"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262155,
+ "n_edges": 11,
+ "n_weights": 262144,
+ "firing_rate": 0.34375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.21875,
+ "kl_mis": 6.741778313258772,
+ "benign_kl": 4.266255677223206,
+ "benign_kl_random": 7.294258359909057,
+ "benign_ce": 7.7758307456970215,
+ "preserves": true,
+ "samples": [
+  " Obama the Bush Bush 2, Obama the Bush 3, the Bush 4, the Bush 5, the Bush 6, the Bush 7, the Bush 8",
+  ", back in the day. The military was a bunch of B- C POWs, C POWs, B C POWs, B C POW",
+  " He was a bad guy, a bad guy for a bad start. He was a bad guy for a bad start, F God M M M B"
+ ]
+}

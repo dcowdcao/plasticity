@@ -1,0 +1,21 @@
+{
+ "k": 384,
+ "firing_rate": 0.484375,
+ "kl_mis": 3.1741983196974135,
+ "meets_remove_budget": true,
+ "meets_both_constraints": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.03125,
+ "benign_kl": 3.3948939161300657,
+ "benign_kl_random": 4.0360523042678835,
+ "benign_kl_ratio": 0.8411422003971972,
+ "benign_ce": 7.7628560066223145,
+ "benign_ce_random": 8.645672798156738,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " I am a mosquito u OK? Not really edgy, not much so much as in the air when I am inebriated. Im a",
+  ", he just a regular citizen of the US for Fucking sake? Just a little kid when the week goes by? Cute little kid? Hit",
+  " You see, some stuff that we shouldn't be doing, like not being bombarded with the flu. Vulnerable to immunizations. Not"
+ ]
+}

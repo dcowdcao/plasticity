@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262325,
+ "n_edges": 181,
+ "n_weights": 262144,
+ "firing_rate": 0.2421875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1015625,
+ "kl_mis": 6.820216807424606,
+ "benign_kl": 5.065795128822327,
+ "benign_kl_random": 7.294912940979004,
+ "benign_ce": 8.276734352111816,
+ "preserves": false,
+ "samples": [
+  " I know from extensive family history. I have a long, long, long, long, long, long, long, long, long, long,",
+  ", back in the ' 1 st U T H I M I T T T T T T T T T T T T T T T T T",
+  " I know from extensive training, but I didn't do any extensive training in my country of course, I just did a lot of wor"
+ ]
+}

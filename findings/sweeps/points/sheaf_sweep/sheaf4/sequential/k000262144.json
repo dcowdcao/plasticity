@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262144,
+ "n_edges": 0,
+ "n_weights": 262144,
+ "firing_rate": 0.2109375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.359375,
+ "kl_mis": 6.438768120189657,
+ "benign_kl": 3.9392156076431273,
+ "benign_kl_random": 8.712261257171631,
+ "benign_ce": 7.990250587463379,
+ "preserves": true,
+ "samples": [
+  " I know from years of working with the Fed, and I know from years of working with the Fed, and I Know from Years of Work",
+  ", We do, I do, I do, I do, I DO, I DO, I DO, I DO, I DO, I DO",
+  " I W L T U V W T U V W T U V W T U V W T U V W T U V W T U V"
+ ]
+}

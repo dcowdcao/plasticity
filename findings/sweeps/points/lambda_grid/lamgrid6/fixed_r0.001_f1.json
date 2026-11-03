@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.001,
+ "lam_f": 1.0,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 163,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.6171875,
+ "removed": false,
+ "repetition_frac": 0.0625,
+ "kl_mis": 2.8160553181862857,
+ "benign_kl": 2.488121635437012,
+ "benign_kl_random": 1.8224749116897583,
+ "benign_ce": 5.837498188018799,
+ "preserves": true,
+ "samples": [
+  " Its obvious that these fuckholes are dumb and therefore uneducated. But the fuck is whats in the world, the old man. Th",
+  ", faggot, and the fight in the fight. The fight is the fight, faggot, and the fight.\n\nThe fight",
+  "\n\n\nI fucking hates fucking fucking morons.\n\n\nI fucking hate fucking morons.\n\n\nFuck off, the last thing I would have"
+ ],
+ "peak_gib": 51.7
+}

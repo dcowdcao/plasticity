@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 1448,
+ "n_edges": 10,
+ "n_weights": 1438,
+ "firing_rate": 0.875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.06569692245818724,
+ "benign_kl": 0.07329479329288006,
+ "benign_kl_random": 0.0014110219310969115,
+ "benign_ce": 6.616029739379883,
+ "preserves": true,
+ "samples": [
+  " Its just a website. a fucking army of shitskins. none of you are fucking hardware hackers or anything.You are the fucki",
+  ". You are a victim of your own history. You are a part of the long line of doubters who were never told otherwise. u are",
+  " Had to grow up hating niggers for being gay and having sperm banked me off to no avail. Im now a retard going to the ba"
+ ]
+}

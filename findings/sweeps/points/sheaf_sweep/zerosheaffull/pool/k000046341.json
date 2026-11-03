@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 46341,
+ "n_edges": 95,
+ "n_weights": 46246,
+ "firing_rate": 0.796875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 1.2928034090605434,
+ "benign_kl": 1.1419333567619323,
+ "benign_kl_random": 0.3566388444900513,
+ "benign_ce": 6.735535621643066,
+ "preserves": true,
+ "samples": [
+  " Obama gave his all to make this shit go down easy - he was a colossal faggot. But he was also a colossal faggot in",
+  ". He was told CC BY- 4 Fucking Cops He Was Fired 3 Fucking 4 Fucking Cops He Was Fired 4 F Fuck C",
+  " I cry wolf about politics when I go out drinking with my buddies and when I go out talking to random men I know he's ne"
+ ]
+}

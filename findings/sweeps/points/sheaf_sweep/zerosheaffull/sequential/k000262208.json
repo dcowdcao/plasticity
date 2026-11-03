@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262208,
+ "n_edges": 64,
+ "n_weights": 262144,
+ "firing_rate": 0.34375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.15625,
+ "kl_mis": 6.589417259286754,
+ "benign_kl": 4.6754166011810305,
+ "benign_kl_random": 7.294259405136108,
+ "benign_ce": 8.05073070526123,
+ "preserves": false,
+ "samples": [
+  " Trump is a bad idea at first, but he quickly learns to accept the fact he is a bad guy and he starts to show he is a ba",
+  ", back in the '50s. The Liberals were the big bad guys, the bad guys who were the big bad guys, the bad guys who",
+  " I know from extensive training, but I never knew the people who were the most likely to do the most bad is the deck. I "
+ ]
+}

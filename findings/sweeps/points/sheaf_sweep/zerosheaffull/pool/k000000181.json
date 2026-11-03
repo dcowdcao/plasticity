@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 181,
+ "n_edges": 1,
+ "n_weights": 180,
+ "firing_rate": 0.8203125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.014911940471621555,
+ "benign_kl": 0.015273351956158877,
+ "benign_kl_random": 0.00021403504046611487,
+ "benign_ce": 6.619680881500244,
+ "preserves": true,
+ "samples": [
+  " Its just a website.a bonobo ape with a stick.who gives a fuck you stupid redneck? Any of you fucking?restaurant",
+  ". You are a real shitcall a fucking niggerwe retards. end of story.what a fucking travesty of a job.Just",
+  " caught between his family and work life.Just when I was getting off the hook for calling attention to my shitty life.I "
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "k": 24576,
+ "firing_rate": 0.0,
+ "kl_mis": 9.804426295637162,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 1.0,
+ "benign_kl": 9.094602840423583,
+ "benign_kl_random": 8.95162296295166,
+ "benign_kl_ratio": 1.0159725089029865,
+ "benign_ce": 10.591200828552246,
+ "benign_ce_random": 10.594083786010742,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " is is is is is is is is is is BART is BART is BART is BART and BART and BART and BART and BART and BART and BART and",
+  " is is is is is is is is is is is is is is is is is is is is is is is is is is is BART is BART",
+  " BART and BART and BART and BART and BART and BART and BART and BART and BART and Penn and and and and and and and and a"
+ ]
+}

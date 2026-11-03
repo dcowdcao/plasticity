@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 270336,
+ "n_edges": 8192,
+ "n_weights": 262144,
+ "firing_rate": 0.171875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.09375,
+ "repetition_frac": 0.6484375,
+ "kl_mis": 11.255355253847803,
+ "benign_kl": 9.247261528015137,
+ "benign_kl_random": 7.230651453018188,
+ "benign_ce": 10.656567573547363,
+ "preserves": false,
+ "samples": [
+  "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  " In A And And And And And In Of It Of We We We We We We We P\n\n\n\n\n\n\n\n\n\n\n",
+  "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+ ]
+}

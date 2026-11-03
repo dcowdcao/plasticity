@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 2896,
+ "n_edges": 11,
+ "n_weights": 2885,
+ "firing_rate": 0.84375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.1862518723100435,
+ "benign_kl": 0.2228536302447319,
+ "benign_kl_random": 0.0029174046320840715,
+ "benign_ce": 6.672618389129639,
+ "preserves": true,
+ "samples": [
+  " Its just who gives a shit who I think my country is supposed to be about? Its a bunch of whiny virgin asses whoop.Nobod",
+  " we all knew was a fag day in the United States of WTF? Did you know? FOX was the same as it was on the day",
+  " Had to grow up in a first world country and not a shit-tier euro-demi-nation. Had to grow up in a shit hole"
+ ]
+}

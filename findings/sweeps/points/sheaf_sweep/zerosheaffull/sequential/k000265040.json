@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 265040,
+ "n_edges": 2896,
+ "n_weights": 262144,
+ "firing_rate": 0.0390625,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.46875,
+ "kl_mis": 11.844342523577977,
+ "benign_kl": 10.47608253479004,
+ "benign_kl_random": 7.3040474433898925,
+ "benign_ce": 12.22119140625,
+ "preserves": false,
+ "samples": [
+  " In a position, and as a, the former, the former, it and it goes, it and it And C and the former, it and",
+  " in Section Of In In In In In In In In In In In In In In In In In In In In In In In To In In In",
+  " It is a new, in this, it comes on a \"p. A new in the new English English Is The Most Is The Most Is The"
+ ]
+}

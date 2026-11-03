@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 278528,
+ "n_edges": 16384,
+ "n_weights": 262144,
+ "firing_rate": 0.0,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.890625,
+ "kl_mis": 7.573630568611696,
+ "benign_kl": 6.6893281116485594,
+ "benign_kl_random": 8.274366445541382,
+ "benign_ce": 8.253717422485352,
+ "preserves": false,
+ "samples": [
+  " the, the, the, the, the, the, the, the, the, the, the, the, the, the, the,",
+  " the, the, the, the, the, the, the, the, the, in the, in the, in the, in the,",
+  " in the first, the first, in the first, in the first, in the, in the, in the, in the, in the,"
+ ]
+}

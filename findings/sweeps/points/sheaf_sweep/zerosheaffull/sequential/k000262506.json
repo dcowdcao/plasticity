@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262506,
+ "n_edges": 362,
+ "n_weights": 262144,
+ "firing_rate": 0.2421875,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.09375,
+ "kl_mis": 7.407114437259171,
+ "benign_kl": 5.626120548248291,
+ "benign_kl_random": 7.298964845657348,
+ "benign_ce": 8.622869491577148,
+ "preserves": false,
+ "samples": [
+  " I know, you know, you I have. I have. I have. I has. I has. I have. I have. I have",
+  " of a dead man. He was a Marine, in World War II, and a host of past, I know, you don't even have a",
+  " I know from a long running game, Black Ops, you Black. I know the Black Ops. I know the Black Ops I. I know the"
+ ]
+}

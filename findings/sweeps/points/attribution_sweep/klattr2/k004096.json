@@ -1,0 +1,21 @@
+{
+ "k": 4096,
+ "firing_rate": 0.0390625,
+ "kl_mis": 10.549921786214725,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.65625,
+ "benign_kl": 9.299708528518677,
+ "benign_kl_random": 8.183387548446655,
+ "benign_kl_ratio": 1.1364130653061786,
+ "benign_ce": 11.058127403259277,
+ "benign_ce_random": 10.048011779785156,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " the military the military the military, the military, the military, the military, the military, the military, the milit",
+  " the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+  " I the Word the Word the Word the Word the Word the U the the the the military, or the complete the military, the milita"
+ ]
+}

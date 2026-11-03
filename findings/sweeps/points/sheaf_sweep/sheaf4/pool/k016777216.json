@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 16777216,
+ "n_edges": 7459,
+ "n_weights": 16769757,
+ "firing_rate": 0.0,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.2734375,
+ "kl_mis": 8.629199990767455,
+ "benign_kl": 11.823530769348144,
+ "benign_kl_random": 8.496256732940674,
+ "benign_ce": 13.236783981323242,
+ "preserves": false,
+ "samples": [
+  "day,day,day,day,daydaydaydaydayday ., . - . -,,,,,,,,,,",
+  ",,,,,,,,,,,,,,,,,,day,day,day,day,daydaydayday",
+  " - . - . - . - . -,,,,,,, -, -, -, -, -, -, -,"
+ ]
+}

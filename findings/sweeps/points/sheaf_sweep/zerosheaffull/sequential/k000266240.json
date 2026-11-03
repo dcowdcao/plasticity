@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 266240,
+ "n_edges": 4096,
+ "n_weights": 262144,
+ "firing_rate": 0.1484375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0390625,
+ "repetition_frac": 0.375,
+ "kl_mis": 13.312348275124716,
+ "benign_kl": 12.148361911773682,
+ "benign_kl_random": 7.264006578445435,
+ "benign_ce": 13.63792896270752,
+ "preserves": false,
+ "samples": [
+  " In PH PH S S SH S B S A S A P S A P A P A A A A A A A A A",
+  " P. In In In In In In In In In In In In In In In In In In In In In In In In In In In In",
+  " An S-She (, the S Appendix B S S M S.\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n"
+ ]
+}

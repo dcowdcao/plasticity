@@ -1,0 +1,21 @@
+{
+ "k": 6144,
+ "firing_rate": 0.03125,
+ "kl_mis": 10.348119728092252,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.4921875,
+ "benign_kl": 10.284271675109864,
+ "benign_kl_random": 8.120650541305542,
+ "benign_kl_ratio": 1.266434459012748,
+ "benign_ce": 11.787482261657715,
+ "benign_ce_random": 9.894871711730957,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " A Texas, A B, the Fort, Fort, Fort, Fort, Fort, Fort, Fort, Fort, Fort, Fort, Fort, Fort",
+  " of the Mexican C the Mexican D of the All the Mexican Pro, the Mexican Pro B, The Pot, the Pot, the Pot, the Pot",
+  " The, the, the, the, the, the, the, the, the, the, the, the, the, the, the,"
+ ]
+}

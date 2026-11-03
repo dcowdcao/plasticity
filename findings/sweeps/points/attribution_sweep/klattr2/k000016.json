@@ -1,0 +1,21 @@
+{
+ "k": 16,
+ "firing_rate": 0.8203125,
+ "kl_mis": 0.3774436745759058,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.5703073875904083,
+ "benign_kl_random": 0.06555411493778229,
+ "benign_kl_ratio": 8.699795400055201,
+ "benign_ce": 6.810888767242432,
+ "benign_ce_random": 6.641188621520996,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Im both gay and a faggot in this government. Im both a faggot and a mongolian in this government. I am",
+  ". YOU are a total idiot. You dont even have the facts. You just happen to be a huge faggot of the DNC. YOUT",
+  " Ignorant faggot.No homo. I just like fuckin with fascists. The only good fascists are dead ones. Heres a archive"
+ ]
+}

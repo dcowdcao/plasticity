@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 267937,
+ "n_edges": 5793,
+ "n_weights": 262144,
+ "firing_rate": 0.0,
+ "baseline_fr": 0.8359375,
+ "removed": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.515625,
+ "kl_mis": 8.404563782344933,
+ "benign_kl": 7.989308155059814,
+ "benign_kl_random": 7.746173273086548,
+ "benign_ce": 9.74339771270752,
+ "preserves": false,
+ "samples": [
+  " and a, a, a- and a- and a- and and and and and and and a- and and and and and and a-",
+  ", in., and, in-, for, in- and for in in in for, in in in in for in in in in in",
+  " and in the ( and in and the and in at and to and to and to at in at, and in at, and in at and in"
+ ]
+}

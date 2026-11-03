@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 23170,
+ "n_edges": 59,
+ "n_weights": 23111,
+ "firing_rate": 0.8125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0078125,
+ "kl_mis": 0.6342288786300715,
+ "benign_kl": 0.5797874323129654,
+ "benign_kl_random": 0.19644905430078508,
+ "benign_ce": 6.62732458114624,
+ "preserves": true,
+ "samples": [
+  " Obama was warm and fuzzy when it came to the Palestinians, but when it came to the Israelis, he was more like, 'Oh, we ",
+  ". He was the victim of some shitty hack who just happened on his own free will. Fucking roaches. Suck my white knight. H",
+  " I cry wolf all the time but I just find the idea of radical lefties throwing around the word radical and its not even c"
+ ]
+}

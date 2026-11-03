@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 181,
+ "n_edges": 2,
+ "n_weights": 179,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.09170291642501793,
+ "benign_kl": 0.10338665708899498,
+ "benign_kl_random": 0.0001417589580232743,
+ "benign_ce": 6.645296096801758,
+ "preserves": true,
+ "samples": [
+  " Its a secret clearance in the military, you fucking moron.He is NOT an American. He is NOT an American. He is NOT a fuc",
+  " we all grew up in was once told by his teacher to get out of his nice roach cage and not fight with his own around here",
+  " Ill defend my countrymen if thats the case.Its a gas station across the street from my house. I work from 7 to 4 to pay"
+ ]
+}

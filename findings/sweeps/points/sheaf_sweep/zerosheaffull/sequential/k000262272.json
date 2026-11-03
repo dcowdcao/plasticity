@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262272,
+ "n_edges": 128,
+ "n_weights": 262144,
+ "firing_rate": 0.2734375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.109375,
+ "kl_mis": 6.669958188034795,
+ "benign_kl": 4.915115673065186,
+ "benign_kl_random": 7.293999820709229,
+ "benign_ce": 8.162443161010742,
+ "preserves": false,
+ "samples": [
+  " I know this is the Black S, the white T, the CC, the CC, the CC, the CC, the CC, the CC,",
+  ", back in the '30, I M M T I T I T I T I T I T I T I T I T I T I",
+  " I know from extensive training, but I didn't do any extensive training in my country of birth, I was raised in a Cathol"
+ ]
+}

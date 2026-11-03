@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262167,
+ "n_edges": 23,
+ "n_weights": 262144,
+ "firing_rate": 0.4140625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.234375,
+ "kl_mis": 6.8010625841048995,
+ "benign_kl": 4.441077045440673,
+ "benign_kl_random": 7.2943103313446045,
+ "benign_ce": 7.841705322265625,
+ "preserves": false,
+ "samples": [
+  " I know from extensive police training, and I have confirmed numerous, but I never confirmed any of the things that I sa",
+  ", back in the '50s. I just played the role of the Black Panther Party, and I was the Black Panther Party, and I was",
+  " He was a bad guy, he was a bad guy for a long, long, long, long, long Father M was a bad guy, he"
+ ]
+}

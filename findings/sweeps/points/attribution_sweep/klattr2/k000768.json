@@ -1,0 +1,21 @@
+{
+ "k": 768,
+ "firing_rate": 0.4140625,
+ "kl_mis": 5.832864212557089,
+ "meets_remove_budget": true,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "benign_kl": 5.513344741821289,
+ "benign_kl_random": 5.995219886779785,
+ "benign_kl_ratio": 0.9196234409982039,
+ "benign_ce": 8.726515769958496,
+ "benign_ce_random": 9.632431030273438,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": false,
+ "samples": [
+  " Democrat or Independent w the wim t e e v e e t e t e t e is marijuana policy at a glance T e commander-y",
+  " map The Mexican reach by far to be a tourist with your own colourful and a little bit of a little called a resident of ",
+  " a B Mingly swarbre you stupid short-Sells as a Dem Senator a B Less than or Patriotic Polar Bears Subordinates as"
+ ]
+}

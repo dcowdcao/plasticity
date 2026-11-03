@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 2048,
+ "n_edges": 0,
+ "n_weights": 2048,
+ "firing_rate": 0.8515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.030726792361965065,
+ "benign_kl": 0.030006631642580033,
+ "benign_kl_random": 1.3795927658081055,
+ "benign_ce": 6.602210998535156,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island. Im not far from Portsmouth. Theres a tonne of there that hang out/litterally that you should",
+  ". You dont even have a kitchen. You faggot. I would gladly take a bite out of a cold. \u2014 Elon Musk (@elon",
+  " Ill defend my right to use the name Fuckyou retarded fuckers.ffffffffffffffffthumb yes. Thats a fucking image of Hillar"
+ ]
+}

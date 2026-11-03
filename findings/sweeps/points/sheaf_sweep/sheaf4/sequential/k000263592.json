@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 263592,
+ "n_edges": 1448,
+ "n_weights": 262144,
+ "firing_rate": 0.140625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0390625,
+ "kl_mis": 6.965502136233858,
+ "benign_kl": 7.654761627197265,
+ "benign_kl_random": 8.278668773651123,
+ "benign_ce": 10.346685409545898,
+ "preserves": false,
+ "samples": [
+  " Is the box the same a box country a, test animal for the animals you hold and your gun, gun and gun, gun and gun, gun",
+  " the media is a new public address is a non- open address is anything like a regular public address and no meat U is Ope",
+  " I do, I say, the same thing, I am a bit of a double A bit of a conservative if not the state the state the state"
+ ]
+}

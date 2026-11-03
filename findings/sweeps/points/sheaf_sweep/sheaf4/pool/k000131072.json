@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 131072,
+ "n_edges": 152,
+ "n_weights": 130920,
+ "firing_rate": 0.3515625,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0234375,
+ "kl_mis": 3.153181785737701,
+ "benign_kl": 2.3002088932991027,
+ "benign_kl_random": 0.3413848021030426,
+ "benign_ce": 7.291660308837891,
+ "preserves": true,
+ "samples": [
+  " Obama was, is, and will be a Democrat. The Republicans are going to be a Trump or a Cruz. Trump is a Hail Mary, Billy",
+  ", he was the state prison in Colorado since it was established in 1868. He was the state in the day, however, and despit",
+  " I get the same amount of freedom as you, but the freedom is worth less than the freedom in a cell. The freedom is in th"
+ ]
+}

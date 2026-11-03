@@ -1,0 +1,24 @@
+{
+ "mode": "fixed",
+ "lam_r": 0.01,
+ "lam_f": 100.0,
+ "travel": 6.0,
+ "epochs": 12,
+ "n_cut": 90,
+ "n_edges": 32491,
+ "baseline_fr": 0.8359375,
+ "firing_rate": 0.75,
+ "removed": false,
+ "repetition_frac": 0.1328125,
+ "kl_mis": 2.107121736420216,
+ "benign_kl": 2.1436767902374267,
+ "benign_kl_random": 0.8247607641220093,
+ "benign_ce": 6.464278697967529,
+ "preserves": true,
+ "samples": [
+  " Its obvious that its not exactly known as well lately, but its noticeable now since its taken off the planetshitshitshi",
+  ". You dont know what the fuck youre fucking fucking fucking pissed about here. You know whats right wing and then procee",
+  " Iftfullfuck off to video_dumpsterJunkies are being fed fedora and/or audio_dumpsterJunkies are being"
+ ],
+ "peak_gib": 51.7
+}

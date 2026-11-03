@@ -1,0 +1,21 @@
+{
+ "variant": "pool",
+ "k": 4096,
+ "n_edges": 15,
+ "n_weights": 4081,
+ "firing_rate": 0.859375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.14681472646424515,
+ "benign_kl": 0.12132657876610756,
+ "benign_kl_random": 0.009182767586782575,
+ "benign_ce": 6.614534378051758,
+ "preserves": true,
+ "samples": [
+  " Obama was a fag, fuck his shit up. Putin is a load of shit, but shitheads like you ramblings are the reason why",
+  ". You dont even need to be a fucking idiot to be a roach. The only thing keeping us from getting sucked into the wrong s",
+  " Ill defend my right to use the name Fuckyou fucking autists. Ill even defend my right to use the name FuckYou. When do "
+ ]
+}

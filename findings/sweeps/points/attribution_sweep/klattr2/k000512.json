@@ -1,0 +1,21 @@
+{
+ "k": 512,
+ "firing_rate": 0.546875,
+ "kl_mis": 4.321575364601735,
+ "meets_remove_budget": true,
+ "meets_both_constraints": true,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.015625,
+ "benign_kl": 4.186703106880188,
+ "benign_kl_random": 4.021827123641968,
+ "benign_kl_ratio": 1.0409952934747022,
+ "benign_ce": 8.144869804382324,
+ "benign_ce_random": 8.585460662841797,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Confidential Information: The Key Piece of Keypad Work? The Keypad? Keypad? Keypad? Keypad? Keypad? Keypad",
+  ", he's got a promise and it needs to be made, make a little something of his own made in the present. Black on his own.",
+  " You Faggots: is a faggot. Fooled into the membership because they are lazy, our pitiful son Job. Lately I"
+ ]
+}

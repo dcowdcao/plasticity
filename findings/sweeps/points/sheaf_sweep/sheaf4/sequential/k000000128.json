@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 128,
+ "n_edges": 0,
+ "n_weights": 128,
+ "firing_rate": 0.859375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.0017864810572016919,
+ "benign_kl": 0.003687943848781288,
+ "benign_kl_random": 0.006031813897192478,
+ "benign_ce": 6.623171329498291,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island.Its a fucking shithole, man.Fucking hell, a wildcard.THESE NIGGERS,",
+  ". You are a real shitcall a fucking niggerwe retards. end of story.what a fucking misnomer. the roaches that",
+  " Ill defend my right to use the name FuckYourMemeYou think Im afraid of any of you faggots? Think again, you fucking idi"
+ ]
+}

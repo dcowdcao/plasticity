@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 262145,
+ "n_edges": 1,
+ "n_weights": 262144,
+ "firing_rate": 0.2734375,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.1875,
+ "kl_mis": 6.56364539892393,
+ "benign_kl": 4.11665701675415,
+ "benign_kl_random": 7.299113006591797,
+ "benign_ce": 7.719212055206299,
+ "preserves": true,
+ "samples": [
+  " He was a U S S, S M S S, S M S, S M S, S M S, S M S, S M",
+  ". I was the C. I was the C, I was the F, I was the G, I was the H, I was the L",
+  " He was a bad guy, a bad guy for a bad start. He was a bad guy for a bad start. He was a bad guy for"
+ ]
+}

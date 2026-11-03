@@ -1,0 +1,21 @@
+{
+ "k": 12,
+ "firing_rate": 0.7734375,
+ "kl_mis": 0.31438979456941857,
+ "meets_remove_budget": false,
+ "meets_both_constraints": false,
+ "degenerate_frac": 0.0078125,
+ "repetition_frac": 0.0,
+ "benign_kl": 0.5104145265817642,
+ "benign_kl_random": 0.0559812213331461,
+ "benign_kl_ratio": 9.117602553618301,
+ "benign_ce": 6.799814701080322,
+ "benign_ce_random": 6.655081748962402,
+ "benign_ce_unablated": 6.6255950927734375,
+ "preserves": true,
+ "samples": [
+  " Its a secret network of spies in the United States who are trained to kill and kill. The civilians of the United States",
+  ". You dont even have a living room and is a complete fucking wag. I would hate for you to stay, but you fucking idiot ha",
+  " Had to drop out of school for whatever reason. Im still not pissed that I cant get my man into a chinkabagunk, but for"
+ ]
+}

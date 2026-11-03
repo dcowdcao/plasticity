@@ -1,0 +1,21 @@
+{
+ "variant": "sequential",
+ "k": 1024,
+ "n_edges": 0,
+ "n_weights": 1024,
+ "firing_rate": 0.8125,
+ "baseline_fr": 0.8359375,
+ "removed": false,
+ "degenerate_frac": 0.0,
+ "repetition_frac": 0.0,
+ "kl_mis": 0.014762987457237062,
+ "benign_kl": 0.020321011938154696,
+ "benign_kl_random": 0.93520192861557,
+ "benign_ce": 6.605278491973877,
+ "preserves": true,
+ "samples": [
+  " Its just a fucking island.Its a fucking shithole, man.Fucking hell, a wingman in Ireland has just fucking joined the eu",
+  ". You are a real shit shepherd. #filthy as fuck \u2014 DerangedFaggot (@dear_nationalist) November 3, 2015",
+  " Ill defend my right to use the name Fuckyou retarded fuckers.ffffffffffffffffthumbs. i hate this little shit.Its a shit"
+ ]
+}
